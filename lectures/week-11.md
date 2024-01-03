@@ -1,0 +1,32 @@
+---
+layout: module
+title: Week 11 - Linear Models 1 & 2
+permalink: /modules/week11
+parent: Modules
+nav_order: 11
+---
+
+### Learning Objectives:
+
+* Linear Regression
+* Least Squares Estimation
+* Regularized Least Squares
+
+### Lessons:
+* Linear Models 1 [Slides](https://xinchenyu.github.io/csc380-fall23/Slides/23f380_linear_lecture1.pdf)
+* Linear Models 2 [Slides](https://xinchenyu.github.io/csc380-fall23/Slides/23f380_linear_lecture2.pdf)
+
+
+### Additional Readings:
+* Linear Models 1
+    *  MK: sec. 7.1-7.3, 7.5-7.6
+* Linear Models 2 
+    * ISL sec. 6.1-6.2
+
+### Important Dates:
+* Homework 6 due **Friday, Nov 10, 11:59pm**{: .label .label-red }
+
+### Resources
+* [Proof: Ordinary least square](https://en.wikipedia.org/wiki/Proofs_involving_ordinary_least_squares) 
+* [Proof: MLE for linear regression](https://statproofbook.github.io/P/slr-mle.html)
+* [How regularization works conceptually](https://explained.ai/regularization/constraints.html#sec:2.2)
