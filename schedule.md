@@ -22,9 +22,9 @@ nav_order: 1
 |[Mar 26 <br />  Mar 28]({{ site.baseurl }}{% link lectures/week-11.md %}) | Basics of predictive modeling and classification 3   <br /> Linear models 1 |       |HW6 Due**Mar 29**{: .label .label-purple }
 |[Apr 2  <br />  Apr 4]({{ site.baseurl }}{% link lectures/week-12.md %})  | Linear models 2   <br /> Linear models 3  | [HW7 Out]({{ site.baseurl }}{% link homeworks/hw-07.md %})   <br/><br/>                        |
 |[Apr 9 <br />   Apr 11]({{ site.baseurl }}{% link lectures/week-13.md %}) | Linear models 4   <br /> Nonlinear models 1  |<br/>[HW8 Out]({{ site.baseurl }}{% link homeworks/hw-07.md %})                    |HW7 Due**Apr 10**{: .label .label-purple }
-|[Apr 16 <br />  Apr 18]({{ site.baseurl }}{% link lectures/week-14.md %}) | Nonlinear models 2<br /> Nonlinear models 3|[Final project Out]({{ site.baseurl }}{% link homeworks/final-project.md %})   <br />             |HW8 Due**Apr 19**{: .label .label-purple }
+|[Apr 16 <br />  Apr 18]({{ site.baseurl }}{% link lectures/week-14.md %}) | Nonlinear models 2<br /> Nonlinear models 3|[Project Out]({{ site.baseurl }}{% link homeworks/final-project.md %})  <br/><br/>     |HW8 Due**Apr 19**{: .label .label-purple }
 |[Apr 23 <br />  Apr 25]({{ site.baseurl }}{% link lectures/week-15.md %})   | Clustering  <br />  Course wrap-up 1                    |
-|[Apr 30]({{ site.baseurl }}{% link lectures/week-16.md %})   | Course wrap-up 2               |   |Final Project Due**May 2**{: .label .label-purple }
+|[Apr 30]({{ site.baseurl }}{% link lectures/week-16.md %})   | Course wrap-up 2               |   |Project Due**May 2**{: .label .label-purple }
 |May 8   | **Final exam**{: .label .label-red }               |   |
 
 
