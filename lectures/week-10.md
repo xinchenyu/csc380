@@ -17,10 +17,11 @@ nav_order: 10
 
 
 ### Additional Readings:
+* Basics of predictive modeling and classification 1
+    * MK: sec 1.1-1.3
 * Basics of predictive modeling and classification 2
     * MK: sec 1.4
-* Basics of predictive modeling and classification 3
-    * MK: sec 3.5
+
 
 ### Important Dates:
 * Homework 5 due **Friday, Oct 27, 11:59pm**{: .label .label-red }

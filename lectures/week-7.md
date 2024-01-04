@@ -21,10 +21,12 @@ nav_order: 7
 
 ### Important Dates:
 * Midterm **Thursday, Mar 14**{: .label .label-red }
-* Homework 4 due **Sunday, Oct 15**{: .label .label-red }
+
 
 ### Additional Readings:
-* Data processing and visualization 1 
-    * WJ: Ch. 1, 2
+* Statistics 2
+    * WJ: 14.1-14.4, 15.1-15.2
+* Statistics 3
+    * WJ: sec 16.1-16.2
 
 

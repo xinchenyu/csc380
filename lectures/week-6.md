@@ -11,7 +11,6 @@ nav_order: 6
 * Central limit theorem
 
 
-
 ### Lessons:
 *  Data processing and visualization 3 [Slides]()
 *  Statistics 1 [Slides]()

@@ -13,7 +13,6 @@ nav_order: 4
 * Independence and Moments 
 
 
-
 ### Lessons:
 *  Probability 5 [Slides]()
 *  Probability 6 [Slides]()
@@ -25,6 +24,7 @@ nav_order: 4
 * Probability 5
     * WL: Ch. 3
     * WJ: Ch. 8
+
 
 
 
