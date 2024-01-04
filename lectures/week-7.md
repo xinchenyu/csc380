@@ -1,15 +1,13 @@
 ---
 layout: module
-title: Week 7 - Data processing and visualization 1 
+title: Week 7 - Statistics 2 & 3
 permalink: /modules/week7
 parent: Modules
 nav_order: 7
 ---
 
 ### Learning Objectives:
-* Pandas
-* Pie chart
-* Bar chart
+
 * Midterm review
 
 ### Lessons:

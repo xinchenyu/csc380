@@ -83,50 +83,50 @@
     
     "relUrl": "/homework/hw7"
   },"12": {
-    "doc": "CSC380, Fall 2023",
+    "doc": "CSC380, Spring 2024",
     "title": "CSC 380: Principle of Data Science",
     "content": " ",
     "url": "/csc380-spring24/#csc-380-principle-of-data-science",
     
     "relUrl": "/#csc-380-principle-of-data-science"
   },"13": {
-    "doc": "CSC380, Fall 2023",
+    "doc": "CSC380, Spring 2024",
     "title": "Overview",
     "content": "This course introduces students to principles of data science that are necessary for computer scientists to make effective decisions in their professional careers. A number of computer science sub-disciplines now rely on data collection and analysis. For example, computer systems are now complicated enough that comparing the execution performance of two different programs becomes a statistical estimation problem rather than a deterministic computation. This course teaches students the basic principles of how to properly collect and process data sources in order to derive appropriate conclusions from them. The course has three main components: data analysis, machine learning, and a project where students apply the concepts discussed in class to a substantial open-ended problem. ",
     "url": "/csc380-spring24/#overview",
     
     "relUrl": "/#overview"
   },"14": {
-    "doc": "CSC380, Fall 2023",
+    "doc": "CSC380, Spring 2024",
     "title": "Logistics info",
-    "content": "Time and venue: Tuesday and Thursday 3:30-4:45pm . | Syllabus | Piazza link Access code: wildcats | Gradescope Entry code: ZZNJEN (NB: Please make sure your gradescope email address is the same as the one you have on D2L.) | D2L course webpage: lecture video recordings will be at “UA Tools” -&gt; “Zoom” (NB: Zoom links are for recordings only and are not for live-streaming lectures.) | . We will be using Piazza to make important announcements and do Q&amp;As. Some general rules: . | If you have technical questions, try posing your questions as general as possible, to promote discussions among the class. | If you have private questions, generally please make a private Piazza post instead of sending an email - This will help facilitate our processings of your requests significantly. | . ",
+    "content": "Time and venue: Tuesday and Thursday 3:30-4:45pm . | Syllabus | Piazza link Access code: wildcats | Gradescope Entry code: 8EZRBY (NB: Please make sure your gradescope email address is the same as the one you have on D2L.) | D2L course webpage: lecture video recordings will be at “UA Tools” -&gt; “Zoom” (NB: Zoom links are for recordings only and are not for live-streaming lectures.) | . We will be using Piazza to make important announcements and do Q&amp;As. Some general rules: . | If you have technical questions, try posing your questions as general as possible, to promote discussions among the class. | If you have private questions, generally please make a private Piazza post instead of sending an email - This will help facilitate our processings of your requests significantly. | . ",
     "url": "/csc380-spring24/#logistics-info",
     
     "relUrl": "/#logistics-info"
   },"15": {
-    "doc": "CSC380, Fall 2023",
+    "doc": "CSC380, Spring 2024",
     "title": "Course staff",
-    "content": ". | Instructor: Xinchen Yu | Teaching assistants: Shahriar Golchin, Hui Ni, Saiful Salim | . Office hours: . | Xinchen Yu: Tuesday 2:00pm-3:00pm, Gould-Simpson 854 | Shahriar Golchin: Wednesday 10:00am-11:00am, Zoom link | Hui Ni: Thursday 12:45pm-13:45pm, Gould-Simpson 856 | Saiful Salim: Monday 12:30pm-1:30pm, Gould-Simpson 934 | . ",
+    "content": ". | Instructor: Xinchen Yu | Teaching assistants: | . Office hours: . | Xinchen Yu: Tuesday 2:00pm-3:00pm, Gould-Simpson 854 | . ",
     "url": "/csc380-spring24/#course-staff",
     
     "relUrl": "/#course-staff"
   },"16": {
-    "doc": "CSC380, Fall 2023",
+    "doc": "CSC380, Spring 2024",
     "title": "Textbook",
     "content": "There is no single designated textbook for this course. Much of the course materials and assigned readings will be based on the following books: . | WJ: Watkins, J., “An Introduction to the Science of Statistics: From Theory to Implementation” . | MK: Murphy, K. “Machine Learning: A Probabilistic Perspective.” MIT press, 2012 (accessible online via UA library) . | WL: Wasserman, L. “All of Statistics: A Concise Course in Statistical Inference.” Springer, 2004 (accessible online via UA library) . | ISL: James, G., Witten, D., Hastie, T., &amp; Tibshirani, R. An introduction to statistical learning with Applications in Python. New York: Springer . | . ",
     "url": "/csc380-spring24/#textbook",
     
     "relUrl": "/#textbook"
   },"17": {
-    "doc": "CSC380, Fall 2023",
+    "doc": "CSC380, Spring 2024",
     "title": "Other useful resources",
     "content": ". | You should have no difficulty in Python programming. | Notes for probability review and linear algebra review from Stanford’s CS 229 course. | The matrix cookbook, The Probability and Statistics Cookbook, and Calculus cheatsheet (recommended by Prof. Kwang-Sung Jun). | You may find using LaTeX helpful in writing homeworks or reports. Some useful LaTeX resources: Learn LaTeX in 30 minutes by Overleaf; Introduction to LATEX by MIT Research Science Institute . | Hal Daume III’s book A Course in Machine Learning . | . ",
     "url": "/csc380-spring24/#other-useful-resources",
     
     "relUrl": "/#other-useful-resources"
   },"18": {
-    "doc": "CSC380, Fall 2023",
-    "title": "CSC380, Fall 2023",
+    "doc": "CSC380, Spring 2024",
+    "title": "CSC380, Spring 2024",
     "content": " ",
     "url": "/csc380-spring24/",
     
@@ -181,9 +181,9 @@
     
     "relUrl": "/staff/"
   },"26": {
-    "doc": "Week 1 - Course Overview & Probability 1",
-    "title": "Week 1 - Course Overview & Probability 1",
-    "content": "Learning Objectives: . | Random events | Axioms of Probability | Set Theory | Law of Total Probability | Inclusion-exclusion Rule | . Lessons: . | Course overview Slides | Probability 1 Slides | . Additional Readings: . | Class Syllabus | What is Data Science? | Probability 1 . | WL: Chapter 1 | WJ: Chapter 5 | . | . ",
+    "doc": "Week 1 - Course Overview",
+    "title": "Week 1 - Course Overview",
+    "content": "Learning Objectives: . | Course overview | . Lessons: . | Course overview Slides | . Additional Readings: . | Class Syllabus | What is Data Science? | . ",
     "url": "/csc380-spring24/modules/week1",
     
     "relUrl": "/modules/week1"
@@ -237,44 +237,44 @@
     
     "relUrl": "/modules/week16"
   },"34": {
-    "doc": "Week 2 - Probability 2 & 3",
-    "title": "Week 2 - Probability 2 & 3",
-    "content": "Learning Objectives: . | Conditional Probability | Independence | Random Variable and Probability | Discrete Probability | . Lessons: . | Probability 2 Slides | Probability 3 Slides | . Important Dates: . | Homework 1 out, due Wednesday, Sep 6, 11:59pm | . Additional Readings: . | Probability 2 . | WJ: Ch. 6 | . | Probability 3 . | WJ: Sec. 7.1 - 7.3.1 | . | . ",
+    "doc": "Week 2 - Probability 1 & 2",
+    "title": "Week 2 - Probability 1 & 2",
+    "content": "Learning Objectives: . | Random events | Axioms of Probability | Set Theory | Law of Total Probability | Inclusion-exclusion Rule | Conditional Probability | Independence | . Lessons: . | Probability 1 Slides | . Important Dates: . | Homework 1 out, due Friday, Jan 26, 11:59pm | . Additional Readings: . | Probability 1 . | WL: Chapter 1 | WJ: Chapter 5 | . | Probability 2 . | WJ: Ch. 6 | . | . ",
     "url": "/csc380-spring24/modules/week2",
     
     "relUrl": "/modules/week2"
   },"35": {
-    "doc": "Week 3 - Probability 4 & 5",
-    "title": "Week 3 - Probability 4 & 5",
-    "content": "Learning Objectives: . | Continous Probability | Probability Density Function | Probability Mass Function | Expectation | Variance | Covariance | . Lessons: . | Probability 4 Slides | Probability 5 Slides | . Important Dates: . | Homework 1 due Wednesday, Sep 6, 11:59pm | Homework 2 out, due Friday, Sep 15, 11:59pm | . Additional Readings: . | Probability 4 . | WJ: Sec. 7.3.2 - 7.8, Ch. 9 | WL: Ch. 2 | . | Probability 5 . | WL: Ch. 3 | WJ: Ch. 8 | . | . Resources . | Integration and the fundamental theorem of calculus | Derivative as a concept | . ",
+    "doc": "Week 3 - Probability 3 & 4",
+    "title": "Week 3 - Probability 3 & 4",
+    "content": "Learning Objectives: . | Random Variable and Probability | Discrete Probability | Continous Probability | Probability Density Function | Probability Mass Function | . Lessons: . | Probability 3 Slides | Probability 4 Slides | . Important Dates: . | Homework 1 due Friday, Jan 26, 11:59pm | . Additional Readings: . | Probability 3 . | WJ: Sec. 7.1 - 7.3.1 | . | Probability 4 . | WJ: Sec. 7.3.2 - 7.8, Ch. 9 | WL: Ch. 2 | . | . Resources . | Integration and the fundamental theorem of calculus | Derivative as a concept | . ",
     "url": "/csc380-spring24/modules/week3",
     
     "relUrl": "/modules/week3"
   },"36": {
-    "doc": "Week 4 - Probability 6 & Statistics 1",
-    "title": "Week 4 - Probability 6 & Statistics 1",
-    "content": "Learning Objectives: . | Independence and Moments | Law of Large Numbers | Central Limit Theorem | Parameter Estimation | Desirable Estimator Properties | . Lessons: . | Probability 6 Slides | Statistics 1 Slides | . Important Dates: . | Homework 2 due Friday, Sep 15, 11:59pm | . Additional Readings: . | Statistics 1 . | WL: Sec. 9.1-9.2, Sec 6.3 | WJ: Ch. 12 | . | . ",
+    "doc": "Week 4 - Probability 5 & Probability 6",
+    "title": "Week 4 - Probability 5 & Probability 6",
+    "content": "Learning Objectives: . | Expectation | Variance | Covariance | Independence and Moments | . Lessons: . | Probability 5 Slides | Probability 6 Slides | . Important Dates: . | Homework 2 due Wednesday, Feb 7, 11:59pm | . Additional Readings: . | Probability 5 . | WL: Ch. 3 | WJ: Ch. 8 | . | . ",
     "url": "/csc380-spring24/modules/week4",
     
     "relUrl": "/modules/week4"
   },"37": {
-    "doc": "Week 5 - Statistics 2 & 3",
-    "title": "Week 5 - Statistics 2 & 3",
+    "doc": "Week 5 - Data processing and visualization 1 & 2",
+    "title": "Week 5 - Data processing and visualization 1 & 2",
     "content": "Learning Objectives: . | Maximum Likelihood Estimation | Expectation of Sample Mean | Variance of Sample Mean | Expectation of Sample Variance | Bias Variance Trade-off | . Lessons: . | Statistics 2 Slides | Statistics 3 Slides | . Additional Readings: . | Statistics 2 . | WJ: 14.1-14.4, 15.1-15.2 | . | Statistics 3 . | WJ: sec 16.1-16.2 | . | . Important Dates: . | Homework 3 due Wednesday, Sep 27, 11:59pm | . Resources . | Proof: Bias of Sample Variance | Bias Variance Decomposition | . ",
     "url": "/csc380-spring24/modules/week5",
     
     "relUrl": "/modules/week5"
   },"38": {
-    "doc": "Week 6 - Statistics 4 & 5",
-    "title": "Week 6 - Statistics 4 & 5",
-    "content": "Learning Objectives: . | Confidence Intervals | Bootstrap | . Lessons: . | Statistics 4 Slides | Statistics 5 Slides | . Important Dates: . | Midterm Thursday, Oct 12, 3:30pm-4:45pm | . Additional Readings: . | Statistics 4 . | WJ: sec 20.1-20.4 | WL: sec 8.3 | . | . ",
+    "doc": "Week 6 - Data processing and visualization 3 & Statistics 1",
+    "title": "Week 6 - Data processing and visualization 3 & Statistics 1",
+    "content": "Learning Objectives: . | Research Design | Data Collection and Sampling | . Lessons: . | Data processing and visualization 3 Slides | Statistics 1 Slides | . Important Dates: . Additional Readings: . | Statistics 1 . | WL: Sec. 9.1-9.2, Sec 6.3 | WJ: Ch. 12 | . | Statistics 4 . | WJ: sec 20.1-20.4 | WL: sec 8.3 | . | . ",
     "url": "/csc380-spring24/modules/week6",
     
     "relUrl": "/modules/week6"
   },"39": {
-    "doc": "Week 7 - Data processing and visualization 1",
-    "title": "Week 7 - Data processing and visualization 1",
-    "content": "Learning Objectives: . | Pandas | Pie chart | Bar chart | Midterm review | . Lessons: . | Data processing and visualization 1 Slides | Midterm review Slides | . Important Dates: . | Midterm Thursday, Oct 12 | Homework 4 due Sunday, Oct 15 | . Additional Readings: . | Data processing and visualization 1 . | WJ: Ch. 1, 2 | . | . ",
+    "doc": "Week 7 - Statistics 2 & 3",
+    "title": "Week 7 - Statistics 2 & 3",
+    "content": "Learning Objectives: . | Midterm review | . Lessons: . | Data processing and visualization 1 Slides | Midterm review Slides | . Important Dates: . | Midterm Thursday, Oct 12 | Homework 4 due Sunday, Oct 15 | . Additional Readings: . | Data processing and visualization 1 . | WJ: Ch. 1, 2 | . | . ",
     "url": "/csc380-spring24/modules/week7",
     
     "relUrl": "/modules/week7"
@@ -288,7 +288,7 @@
   },"41": {
     "doc": "Week 9 - Data processing and visualization 3 & Basics of predictive modeling and classification 1",
     "title": "Week 9 - Data processing and visualization 3 & Basics of predictive modeling and classification 1",
-    "content": "Learning Objectives: . | Research Design | Data Collection and Sampling | Decision Tree | . Lessons: . | Data processing and visualization 3 Slides | Basics of predictive modeling and classification 1 Slides | . Important Dates: . | Homework 5 due Friday, Oct 27, 11:59pm | . Additional Readings: . | Basics of predictive modeling and classification 1 . | MK: sec 1.1-1.3 | . | . ",
+    "content": "Learning Objectives: . | Decision Tree | . Lessons: . | Data processing and visualization 3 Slides | Basics of predictive modeling and classification 1 Slides | . Important Dates: . | Homework 5 due Friday, Oct 27, 11:59pm | . Additional Readings: . | Basics of predictive modeling and classification 1 . | MK: sec 1.1-1.3 | . | . ",
     "url": "/csc380-spring24/modules/week9",
     
     "relUrl": "/modules/week9"

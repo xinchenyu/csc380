@@ -1,24 +1,27 @@
 ---
 layout: module
-title: Week 6 - Statistics 4 & 5
+title: Week 6 - Data processing and visualization 3 & Statistics 1 
 permalink: /modules/week6
 parent: Modules
 nav_order: 6
 ---
 
 ### Learning Objectives:
-* Confidence Intervals
-* Bootstrap
+* Research Design
+* Data Collection and Sampling
 
 
 ### Lessons:
-*  Statistics 4 [Slides](https://xinchenyu.github.io/csc380-fall23/Slides/23f380_statistics_lecture4.pdf)
-*  Statistics 5 [Slides](https://xinchenyu.github.io/csc380-fall23/Slides/23f380_statistics_lecture5.pdf)
+*  Data processing and visualization 3 [Slides]()
+*  Statistics 1 [Slides]()
 
 ### Important Dates:
-* Midterm **Thursday, Oct 12, 3:30pm-4:45pm**{: .label .label-red }
+
 
 ### Additional Readings:
+* Statistics 1
+    * WL: Sec. 9.1-9.2, Sec 6.3
+    * WJ: Ch. 12
 * Statistics 4
     * WJ: sec 20.1-20.4
     * WL: sec 8.3

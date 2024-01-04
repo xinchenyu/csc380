@@ -7,8 +7,7 @@ nav_order: 9
 ---
 
 ### Learning Objectives:
-* Research Design
-* Data Collection and Sampling
+
 * Decision Tree
 
 

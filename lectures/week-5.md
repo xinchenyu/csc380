@@ -1,6 +1,6 @@
 ---
 layout: module
-title: Week 5 - Statistics 2 & 3
+title: Week 5 - Data processing and visualization 1 & 2
 permalink: /modules/week5
 parent: Modules
 nav_order: 5

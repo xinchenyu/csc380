@@ -1,6 +1,6 @@
 ---
 layout: home
-title: CSC380, Fall 2023
+title: CSC380, Spring 2024
 nav_exclude: true
 seo:
 type: Course
@@ -22,10 +22,10 @@ The course has three main components: data analysis, machine learning, and a pro
 ## Logistics info
 
 Time and venue: Tuesday and Thursday 3:30-4:45pm
--  [Syllabus](https://xinchenyu.github.io/csc380-fall23/Syllabus/syllabus.pdf)
--  [Piazza link](https://piazza.com/arizona/fall2023/csc380) Access code: wildcats
--  [Gradescope](https://www.gradescope.com/courses/567943) Entry code: ZZNJEN  (NB: Please make sure your gradescope email address is the same as the one you have on D2L.)
--  [D2L course webpage](https://d2l.arizona.edu/d2l/home/1325412): lecture video recordings will be at "UA Tools" -> "Zoom" (NB: Zoom links are for **recordings only** and are not for live-streaming lectures.)
+-  [Syllabus](https://xinchenyu.github.io/csc380-spring24/Syllabus/syllabus.pdf)
+-  [Piazza link](https://piazza.com/arizona/spring2024/csc380) Access code: wildcats
+-  [Gradescope](https://www.gradescope.com/courses/692188) Entry code: 8EZRBY  (NB: Please make sure your gradescope email address is the same as the one you have on D2L.)
+-  [D2L course webpage](https://d2l.arizona.edu/d2l/home/1403936): lecture video recordings will be at "UA Tools" -> "Zoom" (NB: Zoom links are for **recordings only** and are not for live-streaming lectures.)
 
 
 We will be using Piazza to make important announcements and do Q&As. Some general rules:
@@ -36,13 +36,11 @@ We will be using Piazza to make important announcements and do Q&As. Some genera
 
 ## Course staff
 * Instructor: Xinchen Yu
-* Teaching assistants: Shahriar Golchin, Hui Ni, Saiful Salim 
+* Teaching assistants: 
 
 Office hours:
 * Xinchen Yu: Tuesday 2:00pm-3:00pm, Gould-Simpson 854
-* Shahriar Golchin: Wednesday 10:00am-11:00am, [Zoom link](https://d2l.arizona.edu/d2l/le/news/1325412/2134511/view)
-* Hui Ni: Thursday 12:45pm-13:45pm, Gould-Simpson 856
-* Saiful Salim: Monday 12:30pm-1:30pm, Gould-Simpson 934
+
 
 
 ## Textbook
