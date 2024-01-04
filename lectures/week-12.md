@@ -1,29 +1,29 @@
 ---
 layout: module
-title: Week 12 - Linear Models 3 & 4
+title: Week 12 - Linear Models 2 & 3
 permalink: /modules/week12
 parent: Modules
 nav_order: 12
 ---
 
 ### Learning Objectives:
+* Regularized Least Squares: Ridge
 * Regularized Least Squares: LASSO
 * Feature Selection
-* Logistic Regression
+
 
 
 ### Lessons:
-* Linear Models 3 [Slides](https://xinchenyu.github.io/csc380-fall23/Slides/23f380_linear_lecture3.pdf)
-* Linear Models 4 [Slides](https://xinchenyu.github.io/csc380-fall23/Slides/23f380_linear_lecture4.pdf)
+* Linear Models 2 [Slides]()
+* Linear Models 3 [Slides]()
  
 
 ### Important Dates:
-* Homework 6 due **Friday, Nov 10, 11:59pm**{: .label .label-red }
 
 
 ### Additional Readings:
-* Linear Models 4
-    * ISL: sec. 4.3.1 - 4.3.3
+* Linear Models 2 
+    * ISL sec. 6.1-6.2
 
 
 ### Resources

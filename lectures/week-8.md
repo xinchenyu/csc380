@@ -1,6 +1,6 @@
 ---
 layout: module
-title: Week 8 - Data processing and visualization 2 
+title: Week 8 - Statistics 4 & Midterm review
 permalink: /modules/week8
 parent: Modules
 nav_order: 8
@@ -10,10 +10,10 @@ nav_order: 8
 
 
 ### Lessons:
-* Data processing and visualization 2 [Slides](https://xinchenyu.github.io/csc380-fall23/Slides/23f380_data_lecture2.pdf)
+* Statistics 4 [Slides]()
 
 ### Important Dates:
-* Midterm **Thursday, Oct 12**{: .label .label-red }
+* Midterm **Thursday, Mar 14**{: .label .label-red }
 
 
 ### Additional Readings:

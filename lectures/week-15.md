@@ -1,6 +1,6 @@
 ---
 layout: module
-title: Week 15 - Clustering 
+title: Week 15 - Clustering & Course wrap-up 1
 permalink: /modules/week15
 parent: Modules
 nav_order: 15
@@ -10,12 +10,12 @@ nav_order: 15
 * K-means
 
 ### Lessons:
-* Clustering [Slides](https://xinchenyu.github.io/csc380-fall23/Slides/23f380_clustering_lecture1.pdf)
-* Course wrap-up 1 [Slides](https://xinchenyu.github.io/csc380-fall23/Slides/23f380_final_lecture1.pdf)
+* Clustering [Slides]()
+* Course wrap-up 1 [Slides]()
 
 
 ### Important Dates:
-* Final project due **Friday, Dec 8, 11:59pm**{: .label .label-red }
+* Final project due **Friday, May 2, 11:59pm**{: .label .label-red }
 
 
 

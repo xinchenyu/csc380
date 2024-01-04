@@ -7,8 +7,9 @@ nav_order: 6
 ---
 
 ### Learning Objectives:
-* Research Design
-* Data Collection and Sampling
+* Parameter estimation
+* Central limit theorem
+
 
 
 ### Lessons:

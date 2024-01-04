@@ -7,15 +7,20 @@ nav_order: 7
 ---
 
 ### Learning Objectives:
-
+* Maximum Likelihood Estimation
+* Expectation of Sample Mean
+* Variance of Sample Mean
+* Expectation of Sample Variance
+* Bias Variance Trade-off
+* Confidence interval
 * Midterm review
 
 ### Lessons:
-* Data processing and visualization 1 [Slides](https://xinchenyu.github.io/csc380-fall23/Slides/23f380_data_lecture1.pdf)
-* Midterm review [Slides](https://xinchenyu.github.io/csc380-fall23/Slides/23f380_midterm_review.pdf)
+* Statistics 2 [Slides]()
+* Statistics 3 [Slides]()
 
 ### Important Dates:
-* Midterm **Thursday, Oct 12**{: .label .label-red }
+* Midterm **Thursday, Mar 14**{: .label .label-red }
 * Homework 4 due **Sunday, Oct 15**{: .label .label-red }
 
 ### Additional Readings:

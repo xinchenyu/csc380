@@ -22,7 +22,7 @@
   },"3": {
     "doc": "Final Project",
     "title": "Final Project",
-    "content": "Information . | Final Project has been posted on D2L | Go to D2L -&gt; Content -&gt; download the zip file | . ",
+    "content": "Information . ",
     "url": "/csc380-spring24/homework/finalproject",
     
     "relUrl": "/homework/finalproject"
@@ -83,96 +83,96 @@
     
     "relUrl": "/homework/hw7"
   },"12": {
+    "doc": "Homework 8",
+    "title": "Homework 8",
+    "content": "Information . | Homework 8 has been posted on D2L | Go to D2L -&gt; Content -&gt; download the zip file | . ",
+    "url": "/csc380-spring24/homework/hw8",
+    
+    "relUrl": "/homework/hw8"
+  },"13": {
     "doc": "CSC380, Spring 2024",
     "title": "CSC 380: Principle of Data Science",
     "content": " ",
     "url": "/csc380-spring24/#csc-380-principle-of-data-science",
     
     "relUrl": "/#csc-380-principle-of-data-science"
-  },"13": {
+  },"14": {
     "doc": "CSC380, Spring 2024",
     "title": "Overview",
     "content": "This course introduces students to principles of data science that are necessary for computer scientists to make effective decisions in their professional careers. A number of computer science sub-disciplines now rely on data collection and analysis. For example, computer systems are now complicated enough that comparing the execution performance of two different programs becomes a statistical estimation problem rather than a deterministic computation. This course teaches students the basic principles of how to properly collect and process data sources in order to derive appropriate conclusions from them. The course has three main components: data analysis, machine learning, and a project where students apply the concepts discussed in class to a substantial open-ended problem. ",
     "url": "/csc380-spring24/#overview",
     
     "relUrl": "/#overview"
-  },"14": {
+  },"15": {
     "doc": "CSC380, Spring 2024",
     "title": "Logistics info",
     "content": "Time and venue: Tuesday and Thursday 3:30-4:45pm . | Syllabus | Piazza link Access code: wildcats | Gradescope Entry code: 8EZRBY (NB: Please make sure your gradescope email address is the same as the one you have on D2L.) | D2L course webpage: lecture video recordings will be at “UA Tools” -&gt; “Zoom” (NB: Zoom links are for recordings only and are not for live-streaming lectures.) | . We will be using Piazza to make important announcements and do Q&amp;As. Some general rules: . | If you have technical questions, try posing your questions as general as possible, to promote discussions among the class. | If you have private questions, generally please make a private Piazza post instead of sending an email - This will help facilitate our processings of your requests significantly. | . ",
     "url": "/csc380-spring24/#logistics-info",
     
     "relUrl": "/#logistics-info"
-  },"15": {
+  },"16": {
     "doc": "CSC380, Spring 2024",
     "title": "Course staff",
     "content": ". | Instructor: Xinchen Yu | Teaching assistants: | . Office hours: . | Xinchen Yu: Tuesday 2:00pm-3:00pm, Gould-Simpson 854 | . ",
     "url": "/csc380-spring24/#course-staff",
     
     "relUrl": "/#course-staff"
-  },"16": {
+  },"17": {
     "doc": "CSC380, Spring 2024",
     "title": "Textbook",
     "content": "There is no single designated textbook for this course. Much of the course materials and assigned readings will be based on the following books: . | WJ: Watkins, J., “An Introduction to the Science of Statistics: From Theory to Implementation” . | MK: Murphy, K. “Machine Learning: A Probabilistic Perspective.” MIT press, 2012 (accessible online via UA library) . | WL: Wasserman, L. “All of Statistics: A Concise Course in Statistical Inference.” Springer, 2004 (accessible online via UA library) . | ISL: James, G., Witten, D., Hastie, T., &amp; Tibshirani, R. An introduction to statistical learning with Applications in Python. New York: Springer . | . ",
     "url": "/csc380-spring24/#textbook",
     
     "relUrl": "/#textbook"
-  },"17": {
+  },"18": {
     "doc": "CSC380, Spring 2024",
     "title": "Other useful resources",
     "content": ". | You should have no difficulty in Python programming. | Notes for probability review and linear algebra review from Stanford’s CS 229 course. | The matrix cookbook, The Probability and Statistics Cookbook, and Calculus cheatsheet (recommended by Prof. Kwang-Sung Jun). | You may find using LaTeX helpful in writing homeworks or reports. Some useful LaTeX resources: Learn LaTeX in 30 minutes by Overleaf; Introduction to LATEX by MIT Research Science Institute . | Hal Daume III’s book A Course in Machine Learning . | . ",
     "url": "/csc380-spring24/#other-useful-resources",
     
     "relUrl": "/#other-useful-resources"
-  },"18": {
+  },"19": {
     "doc": "CSC380, Spring 2024",
     "title": "CSC380, Spring 2024",
     "content": " ",
     "url": "/csc380-spring24/",
     
     "relUrl": "/"
-  },"19": {
+  },"20": {
     "doc": "Modules",
     "title": "Modules",
     "content": " ",
     "url": "/csc380-spring24/modules/",
     
     "relUrl": "/modules/"
-  },"20": {
+  },"21": {
     "doc": "Calendar",
     "title": "Tentative schedule",
     "content": "| Dates | Topics | Homework | Notes | . | Jan 11 | Course Overview |   |   | . | Jan 16 Jan 18 | Probability 1 Probability 2 | HW1 Out |   | . | Jan 23 Jan 25 | Probability 3 Probability 4 |   | HW1 DueJan 26 | . | Jan 30 Feb 1 | Probability 5 Probability 6 | HW2 Out |   | . | Feb 6 Feb 8 | Data processing and visualization 1 Data processing and visualization 2 | HW3 Out | HW2 DueFeb 7 | . | Feb 13 Feb 15 | Data processing and visualization 3 Statistics 1 |   | HW3 DueFeb 16 | . | Feb 20 Feb 22 | Statistics 2 Statistics 3 | HW4 Out |   | . | Feb 27 Feb 29 | Statistics 4 Midterm review | HW5 Out | HW4 DueFeb 28 | . | Mar 12 Mar 14 | Statistics 5 Midterm |   | HW5 DueMar 15 | . | Mar 19 Mar 21 | Basics of predictive modeling and classification 1 Basics of predictive modeling and classification 2 | HW6 Out |   | . | Mar 26 Mar 28 | Basics of predictive modeling and classification 3 Linear models 1 |   | HW6 DueMar 29 | . | Apr 2 Apr 4 | Linear models 2 Linear models 3 | HW7 Out |   | . | Apr 9 Apr 11 | Linear models 4 Nonlinear models 1 | HW8 Out | HW7 DueApr 10 | . | Apr 16 Apr 18 | Nonlinear models 2 Nonlinear models 3 | Project Out | HW8 DueApr 19 | . | Apr 23 Apr 25 | Clustering Course wrap-up 1 |   |   | . | Apr 30 | Course wrap-up 2 |   | Project DueMay 2 | . | May 8 | Final exam |   |   | . ",
     "url": "/csc380-spring24/calendar/#tentative-schedule",
     
     "relUrl": "/calendar/#tentative-schedule"
-  },"21": {
+  },"22": {
     "doc": "Calendar",
     "title": "Calendar",
     "content": " ",
     "url": "/csc380-spring24/calendar/",
     
     "relUrl": "/calendar/"
-  },"22": {
+  },"23": {
     "doc": "Staff",
     "title": "Office Hours",
     "content": " ",
     "url": "/csc380-spring24/staff/#office-hours",
     
     "relUrl": "/staff/#office-hours"
-  },"23": {
+  },"24": {
     "doc": "Staff",
     "title": "Instructors",
     "content": "Xinchen Yu . xinchenyu@arizona.edu . Office Hours Tuesday 2:00pm-3:00pm, Gould-Simpson 854 . ",
     "url": "/csc380-spring24/staff/#instructors",
     
     "relUrl": "/staff/#instructors"
-  },"24": {
-    "doc": "Staff",
-    "title": "Teaching Assistants",
-    "content": "Shahriar Golchin . golchin@arizona.edu . Office Hours Wednesday 10:00am-11:00am, Zoom link . Hui Ni . huini@arizona.edu . Office Hours Thursday 12:45pm-13:45pm, Gould-Simpson 856 . Saiful Islam Salim . saifulislam@arizona.edu . Office Hours Monday 12:30pm-1:30pm, Gould-Simpson 934 . ",
-    "url": "/csc380-spring24/staff/#teaching-assistants",
-    
-    "relUrl": "/staff/#teaching-assistants"
   },"25": {
     "doc": "Staff",
     "title": "Staff",
@@ -188,58 +188,58 @@
     
     "relUrl": "/modules/week1"
   },"27": {
-    "doc": "Week 10 - Basics of predictive modeling and classification 2 & 3",
-    "title": "Week 10 - Basics of predictive modeling and classification 2 & 3",
+    "doc": "Week 10 - Basics of predictive modeling and classification 1 & 2",
+    "title": "Week 10 - Basics of predictive modeling and classification 1 & 2",
     "content": "Learning Objectives: . | KNN | Cross Validation | Naive Bayes Classifier | . Lessons: . | Basics of predictive modeling and classification 2 Slides | Basics of predictive modeling and classification 3 Slides | . Additional Readings: . | Basics of predictive modeling and classification 2 . | MK: sec 1.4 | . | Basics of predictive modeling and classification 3 . | MK: sec 3.5 | . | . Important Dates: . | Homework 5 due Friday, Oct 27, 11:59pm | . Resources . | Probability Review before understanding Naive Bayes | . ",
     "url": "/csc380-spring24/modules/week10",
     
     "relUrl": "/modules/week10"
   },"28": {
-    "doc": "Week 11 - Linear Models 1 & 2",
-    "title": "Week 11 - Linear Models 1 & 2",
-    "content": "Learning Objectives: . | Linear Regression | Least Squares Estimation | Regularized Least Squares | . Lessons: . | Linear Models 1 Slides | Linear Models 2 Slides | . Additional Readings: . | Linear Models 1 . | MK: sec. 7.1-7.3, 7.5-7.6 | . | Linear Models 2 . | ISL sec. 6.1-6.2 | . | . Important Dates: . | Homework 6 due Friday, Nov 10, 11:59pm | . Resources . | Proof: Ordinary least square | Proof: MLE for linear regression | How regularization works conceptually | . ",
+    "doc": "Week 11 - Basics of predictive modeling and classification 3 & Linear Models 1",
+    "title": "Week 11 - Basics of predictive modeling and classification 3 & Linear Models 1",
+    "content": "Learning Objectives: . | Linear Regression | Least Squares Estimation | . Lessons: . | Basics of predictive modeling and classification 3 Slides | Linear Models 1 Slides | . Additional Readings: . | Basics of predictive modeling and classification 3 . | MK: sec 3.5 | . | Linear Models 1 . | MK: sec. 7.1-7.3, 7.5-7.6 | . | . Important Dates: . | Homework 6 due Friday, Nov 10, 11:59pm | . Resources . | Proof: Ordinary least square | Proof: MLE for linear regression | How regularization works conceptually | . ",
     "url": "/csc380-spring24/modules/week11",
     
     "relUrl": "/modules/week11"
   },"29": {
-    "doc": "Week 12 - Linear Models 3 & 4",
-    "title": "Week 12 - Linear Models 3 & 4",
-    "content": "Learning Objectives: . | Regularized Least Squares: LASSO | Feature Selection | Logistic Regression | . Lessons: . | Linear Models 3 Slides | Linear Models 4 Slides | . Important Dates: . | Homework 6 due Friday, Nov 10, 11:59pm | . Additional Readings: . | Linear Models 4 . | ISL: sec. 4.3.1 - 4.3.3 | . | . Resources . | Likelihood function for logistic regression | Cross-Entropy loss function and Bernoulli Distribution MLE | . ",
+    "doc": "Week 12 - Linear Models 2 & 3",
+    "title": "Week 12 - Linear Models 2 & 3",
+    "content": "Learning Objectives: . | Regularized Least Squares: Ridge | Regularized Least Squares: LASSO | Feature Selection | . Lessons: . | Linear Models 2 Slides | Linear Models 3 Slides | . Important Dates: . Additional Readings: . | Linear Models 2 . | ISL sec. 6.1-6.2 | . | . Resources . | Likelihood function for logistic regression | Cross-Entropy loss function and Bernoulli Distribution MLE | . ",
     "url": "/csc380-spring24/modules/week12",
     
     "relUrl": "/modules/week12"
   },"30": {
-    "doc": "Week 13 - Nonlinear Models 1 & 2",
-    "title": "Week 13 - Nonlinear Models 1 & 2",
-    "content": "Learning Objectives: . | Basis Functions | Support Vector Machine | . Lessons: . | Nonlinear Models 1 Slides | Nonlinear Models 2 Slides | . Important Dates: . | HW7 due Wednesday, Nov 22, 11:59pm | . Additional Readings: . | Nonlinear Models 1 . | ISL: sec. 7.1 - 7.3 | MK: sec. 14.5, 14.4.3 | . | Nonlinear Models 2 . | ISL: sec. 10.1 - 10.7 | . | . ",
+    "doc": "Week 13 - Linear models 4 & Nonlinear models 1",
+    "title": "Week 13 - Linear models 4 & Nonlinear models 1",
+    "content": "Learning Objectives: . | Logistic Regression | Basis Functions | Support Vector Machine | . Lessons: . | Linear Models 4 Slides | Nonlinear Models 2 Slides | . Important Dates: . Additional Readings: . | Linear Models 4 . | ISL: sec. 4.3.1 - 4.3.3 | . | Nonlinear Models 1 . | ISL: sec. 7.1 - 7.3 | MK: sec. 14.5, 14.4.3 | . | . ",
     "url": "/csc380-spring24/modules/week13",
     
     "relUrl": "/modules/week13"
   },"31": {
-    "doc": "Week 14 - Nonlinear Models 3",
-    "title": "Week 14 - Nonlinear Models 3",
-    "content": "Learning Objectives: . | Neural Networks | . Lessons: . | Nonlinear Models 3 Slides | . Important Dates: . | HW7 due Wednesday, Nov 22, 11:59pm | Final project due Friday, Dec 8, 11:59pm | . Resources . | Play with multilayer perceptron | . ",
+    "doc": "Week 14 - Nonlinear Models 2 & 3",
+    "title": "Week 14 - Nonlinear Models 2 & 3",
+    "content": "Learning Objectives: . | Neural Networks | . Lessons: . | Nonlinear Models 2 Slides | Nonlinear Models 3 Slides | . Important Dates: . | Final project due Friday, May 2, 11:59pm | . Additional Readings: . | Nonlinear Models 2 . | ISL: sec. 10.1 - 10.7 | . | . Resources . | Play with multilayer perceptron | . ",
     "url": "/csc380-spring24/modules/week14",
     
     "relUrl": "/modules/week14"
   },"32": {
-    "doc": "Week 15 - Clustering",
-    "title": "Week 15 - Clustering",
-    "content": "Learning Objectives: . | K-means | . Lessons: . | Clustering Slides | Course wrap-up 1 Slides | . Important Dates: . | Final project due Friday, Dec 8, 11:59pm | . ",
+    "doc": "Week 15 - Clustering & Course wrap-up 1",
+    "title": "Week 15 - Clustering & Course wrap-up 1",
+    "content": "Learning Objectives: . | K-means | . Lessons: . | Clustering Slides | Course wrap-up 1 Slides | . Important Dates: . | Final project due Friday, May 2, 11:59pm | . ",
     "url": "/csc380-spring24/modules/week15",
     
     "relUrl": "/modules/week15"
   },"33": {
-    "doc": "Week 16 - Course Wrap-Up",
-    "title": "Week 16 - Course Wrap-Up",
-    "content": "Lessons: . | Course wrap-up 2 Slides | . Important Dates: . | Final project due Friday, Dec 8, 11:59pm | Final Exam Wednesday, Dec 13, 3:30-5:30pm | . ",
+    "doc": "Week 16 - Course Wrap-Up 2",
+    "title": "Week 16 - Course Wrap-Up 2",
+    "content": "Lessons: . | Course wrap-up 2 Slides | . Important Dates: . | Final project due Friday, May 2, 11:59pm | Final Exam Wednesday, May 8, 3:30-5:30pm | . ",
     "url": "/csc380-spring24/modules/week16",
     
     "relUrl": "/modules/week16"
   },"34": {
     "doc": "Week 2 - Probability 1 & 2",
     "title": "Week 2 - Probability 1 & 2",
-    "content": "Learning Objectives: . | Random events | Axioms of Probability | Set Theory | Law of Total Probability | Inclusion-exclusion Rule | Conditional Probability | Independence | . Lessons: . | Probability 1 Slides | . Important Dates: . | Homework 1 out, due Friday, Jan 26, 11:59pm | . Additional Readings: . | Probability 1 . | WL: Chapter 1 | WJ: Chapter 5 | . | Probability 2 . | WJ: Ch. 6 | . | . ",
+    "content": "Learning Objectives: . | Random events | Axioms of Probability | Set Theory | Law of Total Probability | Inclusion-exclusion Rule | Conditional Probability | Independence | . Lessons: . | Probability 1 Slides | Probability 2 Slides | . Important Dates: . | Homework 1 out, due Friday, Jan 26, 11:59pm | . Additional Readings: . | Probability 1 . | WL: Chapter 1 | WJ: Chapter 5 | . | Probability 2 . | WJ: Ch. 6 | . | . ",
     "url": "/csc380-spring24/modules/week2",
     
     "relUrl": "/modules/week2"
@@ -260,35 +260,35 @@
   },"37": {
     "doc": "Week 5 - Data processing and visualization 1 & 2",
     "title": "Week 5 - Data processing and visualization 1 & 2",
-    "content": "Learning Objectives: . | Maximum Likelihood Estimation | Expectation of Sample Mean | Variance of Sample Mean | Expectation of Sample Variance | Bias Variance Trade-off | . Lessons: . | Statistics 2 Slides | Statistics 3 Slides | . Additional Readings: . | Statistics 2 . | WJ: 14.1-14.4, 15.1-15.2 | . | Statistics 3 . | WJ: sec 16.1-16.2 | . | . Important Dates: . | Homework 3 due Wednesday, Sep 27, 11:59pm | . Resources . | Proof: Bias of Sample Variance | Bias Variance Decomposition | . ",
+    "content": "Learning Objectives: . | Research Design | Data Collection and Sampling | . Lessons: . | Data processing and visualization 1 Slides | Data processing and visualization 2 Slides | . Additional Readings: . | Data processing and visualization 1 . | WJ: Ch. 1, 2 | . | . Important Dates: . | Homework 3 due Wednesday, Sep 27, 11:59pm | . Resources . | Proof: Bias of Sample Variance | Bias Variance Decomposition | . ",
     "url": "/csc380-spring24/modules/week5",
     
     "relUrl": "/modules/week5"
   },"38": {
     "doc": "Week 6 - Data processing and visualization 3 & Statistics 1",
     "title": "Week 6 - Data processing and visualization 3 & Statistics 1",
-    "content": "Learning Objectives: . | Research Design | Data Collection and Sampling | . Lessons: . | Data processing and visualization 3 Slides | Statistics 1 Slides | . Important Dates: . Additional Readings: . | Statistics 1 . | WL: Sec. 9.1-9.2, Sec 6.3 | WJ: Ch. 12 | . | Statistics 4 . | WJ: sec 20.1-20.4 | WL: sec 8.3 | . | . ",
+    "content": "Learning Objectives: . | Parameter estimation | Central limit theorem | . Lessons: . | Data processing and visualization 3 Slides | Statistics 1 Slides | . Important Dates: . Additional Readings: . | Statistics 1 . | WL: Sec. 9.1-9.2, Sec 6.3 | WJ: Ch. 12 | . | Statistics 4 . | WJ: sec 20.1-20.4 | WL: sec 8.3 | . | . ",
     "url": "/csc380-spring24/modules/week6",
     
     "relUrl": "/modules/week6"
   },"39": {
     "doc": "Week 7 - Statistics 2 & 3",
     "title": "Week 7 - Statistics 2 & 3",
-    "content": "Learning Objectives: . | Midterm review | . Lessons: . | Data processing and visualization 1 Slides | Midterm review Slides | . Important Dates: . | Midterm Thursday, Oct 12 | Homework 4 due Sunday, Oct 15 | . Additional Readings: . | Data processing and visualization 1 . | WJ: Ch. 1, 2 | . | . ",
+    "content": "Learning Objectives: . | Maximum Likelihood Estimation | Expectation of Sample Mean | Variance of Sample Mean | Expectation of Sample Variance | Bias Variance Trade-off | Confidence interval | Midterm review | . Lessons: . | Statistics 2 Slides | Statistics 3 Slides | . Important Dates: . | Midterm Thursday, Mar 14 | Homework 4 due Sunday, Oct 15 | . Additional Readings: . | Data processing and visualization 1 . | WJ: Ch. 1, 2 | . | . ",
     "url": "/csc380-spring24/modules/week7",
     
     "relUrl": "/modules/week7"
   },"40": {
-    "doc": "Week 8 - Data processing and visualization 2",
-    "title": "Week 8 - Data processing and visualization 2",
-    "content": "Learning Objectives: . Lessons: . | Data processing and visualization 2 Slides | . Important Dates: . | Midterm Thursday, Oct 12 | . Additional Readings: . | Data processing and visualization 2 . | WJ: Ch. 4 | . | . ",
+    "doc": "Week 8 - Statistics 4 & Midterm review",
+    "title": "Week 8 - Statistics 4 & Midterm review",
+    "content": "Learning Objectives: . Lessons: . | Statistics 4 Slides | . Important Dates: . | Midterm Thursday, Mar 14 | . Additional Readings: . | Data processing and visualization 2 . | WJ: Ch. 4 | . | . ",
     "url": "/csc380-spring24/modules/week8",
     
     "relUrl": "/modules/week8"
   },"41": {
-    "doc": "Week 9 - Data processing and visualization 3 & Basics of predictive modeling and classification 1",
-    "title": "Week 9 - Data processing and visualization 3 & Basics of predictive modeling and classification 1",
-    "content": "Learning Objectives: . | Decision Tree | . Lessons: . | Data processing and visualization 3 Slides | Basics of predictive modeling and classification 1 Slides | . Important Dates: . | Homework 5 due Friday, Oct 27, 11:59pm | . Additional Readings: . | Basics of predictive modeling and classification 1 . | MK: sec 1.1-1.3 | . | . ",
+    "doc": "Week 9 - Statistics 5 & Midterm",
+    "title": "Week 9 - Statistics 5 & Midterm",
+    "content": "Learning Objectives: . | Decision Tree | . Lessons: . | Statistics 5 Slides | Midterm Slides | . Important Dates: . | Homework 5 due Friday, Oct 27, 11:59pm | . Additional Readings: . ",
     "url": "/csc380-spring24/modules/week9",
     
     "relUrl": "/modules/week9"

@@ -1,25 +1,25 @@
 ---
 layout: module
-title: Week 9 - Data processing and visualization 3 & Basics of predictive modeling and classification 1
+title: Week 9 - Statistics 5 & Midterm
 permalink: /modules/week9
 parent: Modules
 nav_order: 9
 ---
 
 ### Learning Objectives:
-
 * Decision Tree
 
 
 ### Lessons:
-* Data processing and visualization 3 [Slides](https://xinchenyu.github.io/csc380-fall23/Slides/23f380_data_lecture3.pdf)
-* Basics of predictive modeling and classification 1 [Slides](https://xinchenyu.github.io/csc380-fall23/Slides/23f380_predictive_lecture1.pdf)
+* Statistics 5 [Slides]()
+* Midterm [Slides]()
+
 
 ### Important Dates:
 * Homework 5 due **Friday, Oct 27, 11:59pm**{: .label .label-red }
 
+
 ### Additional Readings:
-* Basics of predictive modeling and classification 1
-    * MK: sec 1.1-1.3
+
     
 

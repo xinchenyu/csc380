@@ -19,6 +19,7 @@ nav_order: 2
 
 ### Lessons:
 * Probability 1 [Slides]()
+* Probability 2 [Slides]()
 
 
 
