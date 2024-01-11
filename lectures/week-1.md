@@ -11,7 +11,7 @@ nav_order: 1
 
 
 ### Lessons:
-* Course overview [Slides]()
+* Course overview [Slides](https://xinchenyu.github.io/csc380-spring24/Slides/24s380_intro.pdf)
 
 
 ### Additional Readings:

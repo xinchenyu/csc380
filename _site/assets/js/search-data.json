@@ -190,7 +190,7 @@
   },"27": {
     "doc": "Week 10 - Basics of predictive modeling and classification 1 & 2",
     "title": "Week 10 - Basics of predictive modeling and classification 1 & 2",
-    "content": "Learning Objectives: . | KNN | Cross Validation | Naive Bayes Classifier | . Lessons: . | Basics of predictive modeling and classification 2 Slides | Basics of predictive modeling and classification 3 Slides | . Additional Readings: . | Basics of predictive modeling and classification 2 . | MK: sec 1.4 | . | Basics of predictive modeling and classification 3 . | MK: sec 3.5 | . | . Important Dates: . | Homework 5 due Friday, Oct 27, 11:59pm | . Resources . | Probability Review before understanding Naive Bayes | . ",
+    "content": "Learning Objectives: . | KNN | Cross Validation | Naive Bayes Classifier | . Lessons: . | Basics of predictive modeling and classification 2 Slides | Basics of predictive modeling and classification 3 Slides | . Additional Readings: . | Basics of predictive modeling and classification 1 . | MK: sec 1.1-1.3 | . | Basics of predictive modeling and classification 2 . | MK: sec 1.4 | . | . Important Dates: . | Homework 5 due Friday, Oct 27, 11:59pm | . Resources . | Probability Review before understanding Naive Bayes | . ",
     "url": "/csc380-spring24/modules/week10",
     
     "relUrl": "/modules/week10"
@@ -274,7 +274,7 @@
   },"39": {
     "doc": "Week 7 - Statistics 2 & 3",
     "title": "Week 7 - Statistics 2 & 3",
-    "content": "Learning Objectives: . | Maximum Likelihood Estimation | Expectation of Sample Mean | Variance of Sample Mean | Expectation of Sample Variance | Bias Variance Trade-off | Confidence interval | Midterm review | . Lessons: . | Statistics 2 Slides | Statistics 3 Slides | . Important Dates: . | Midterm Thursday, Mar 14 | Homework 4 due Sunday, Oct 15 | . Additional Readings: . | Data processing and visualization 1 . | WJ: Ch. 1, 2 | . | . ",
+    "content": "Learning Objectives: . | Maximum Likelihood Estimation | Expectation of Sample Mean | Variance of Sample Mean | Expectation of Sample Variance | Bias Variance Trade-off | Confidence interval | Midterm review | . Lessons: . | Statistics 2 Slides | Statistics 3 Slides | . Important Dates: . | Midterm Thursday, Mar 14 | . Additional Readings: . | Statistics 2 . | WJ: 14.1-14.4, 15.1-15.2 | . | Statistics 3 . | WJ: sec 16.1-16.2 | . | . ",
     "url": "/csc380-spring24/modules/week7",
     
     "relUrl": "/modules/week7"
