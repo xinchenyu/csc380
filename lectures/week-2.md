@@ -19,7 +19,7 @@ nav_order: 2
 
 ### Lessons:
 * Probability 1 [Slides](https://xinchenyu.github.io/csc380-spring24/Slides/24s380_probability1.pdf)
-* Probability 2 [Slides]()
+* Probability 2 [Slides](https://xinchenyu.github.io/csc380-spring24/Slides/24s380_probability2.pdf)
 
 
 
