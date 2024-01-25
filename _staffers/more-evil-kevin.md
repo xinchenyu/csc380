@@ -1,10 +1,10 @@
 ---
-name: Yinan Li
+name: Yash Agarwal
 role: Teaching Assistant
-email: yinanli@arizona.edu
+email: yashagarwal@arizona.edu
 website: 
-photo: yinan.jpg
+photo: yash.jpg
 meta:
-  Office Hours: Thursday 3:00pm-4:00pm, Gould-Simpson 856 (Desk 6)
+  Office Hours: Wednesday 5:00pm-6:00pm, Gould-Simpson 938
 ---
 
