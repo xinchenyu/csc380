@@ -17,7 +17,7 @@ nav_order: 3
 
 ### Lessons:
 *  Probability 3 [Slides](https://xinchenyu.github.io/csc380-spring24/Slides/24s380_probability3.pdf)
-*  Probability 4 [Slides]()
+*  Probability 4 [Slides](https://xinchenyu.github.io/csc380-spring24/Slides/24s380_probability4.pdf)
 
 ### Important Dates:
 * Homework 1 due **Friday, Jan 26, 11:59pm**{: .label .label-red }

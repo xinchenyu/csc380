@@ -5,6 +5,6 @@ email: yinanli@arizona.edu
 website: 
 photo: yinan.jpg
 meta:
-  Office Hours: Thursday TBA, Gould-Simpson 856 (Desk 6)
+  Office Hours: Thursday 5:30pm-6:30pm, Gould-Simpson 856 (Desk 6)
 ---
 
