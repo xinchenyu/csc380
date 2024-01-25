@@ -1,5 +1,5 @@
 ---
-name: Tugay
+name: Tugay Bilgis
 role: Teaching Assistant
 email: tbilgis@arizona.edu
 website: 
