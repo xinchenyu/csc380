@@ -14,7 +14,7 @@ nav_order: 4
 
 
 ### Lessons:
-*  Probability 5 [Slides]()
+*  Probability 5 [Slides](https://xinchenyu.github.io/csc380-spring24/Slides/24s380_probability5.pdf)
 *  Probability 6 [Slides]()
 
 ### Important Dates:
