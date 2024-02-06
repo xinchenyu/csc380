@@ -21,7 +21,8 @@ nav_order: 5
     * WJ: Ch. 1, 2
 
 ### Important Dates:
-* Homework 3 due **Wednesday, Sep 27, 11:59pm**{: .label .label-red }
+* Homework 2 due **Wednesday, Feb 7, 11:59pm**{: .label .label-red }
+
 
 ### Resources
 * [Proof: Bias of Sample Variance](https://proofwiki.org/wiki/Bias_of_Sample_Variance)
