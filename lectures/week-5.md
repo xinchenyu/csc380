@@ -12,7 +12,7 @@ nav_order: 5
 
 
 ### Lessons:
-*  Data processing and visualization 1 [Slides]()
+*  Data processing and visualization 1 [Slides](https://xinchenyu.github.io/csc380-spring24/Slides/24s380_data1.pdf)
 *  Data processing and visualization 2 [Slides]()
 
 
