@@ -9,7 +9,7 @@ nav_order: 5
 ### Learning Objectives:
 * Research Design
 * Data Collection and Sampling
-* Data Summarization
+* Pandas and Data visualization
 
 
 ### Lessons:

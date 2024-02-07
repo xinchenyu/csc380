@@ -7,7 +7,7 @@ nav_order: 6
 ---
 
 ### Learning Objectives:
-* Pandas and Data visualization
+* Data Summarization
 * Parameter estimation
 * Central limit theorem
 
