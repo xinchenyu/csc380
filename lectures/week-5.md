@@ -9,11 +9,12 @@ nav_order: 5
 ### Learning Objectives:
 * Research Design
 * Data Collection and Sampling
+* Data Summarization
 
 
 ### Lessons:
 *  Data processing and visualization 1 [Slides](https://xinchenyu.github.io/csc380-spring24/Slides/24s380_data1.pdf)
-*  Data processing and visualization 2 [Slides]()
+*  Data processing and visualization 2 [Slides](https://xinchenyu.github.io/csc380-spring24/Slides/24s380_data2.pdf)
 
 
 ### Additional Readings:

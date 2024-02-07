@@ -7,15 +7,17 @@ nav_order: 6
 ---
 
 ### Learning Objectives:
+* Pandas and Data visualization
 * Parameter estimation
 * Central limit theorem
 
 
 ### Lessons:
-*  Data processing and visualization 3 [Slides]()
+*  Data processing and visualization 3 [Slides](https://xinchenyu.github.io/csc380-spring24/Slides/24s380_data3.pdf)
 *  Statistics 1 [Slides]()
 
 ### Important Dates:
+* Homework 3 due **Friday, Feb 16, 11:59pm**{: .label .label-red }
 
 
 ### Additional Readings:
