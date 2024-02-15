@@ -9,12 +9,13 @@ nav_order: 6
 ### Learning Objectives:
 * Data Summarization
 * Parameter estimation
+* Law of large numbers
 * Central limit theorem
 
 
 ### Lessons:
 *  Data processing and visualization 3 [Slides](https://xinchenyu.github.io/csc380-spring24/Slides/24s380_data3.pdf)
-*  Statistics 1 [Slides]()
+*  Statistics 1 [Slides](https://xinchenyu.github.io/csc380-spring24/Slides/24s380_statistics1.pdf)
 
 ### Important Dates:
 * Homework 3 due **Friday, Feb 16, 11:59pm**{: .label .label-red }
