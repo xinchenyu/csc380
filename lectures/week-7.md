@@ -12,14 +12,15 @@ nav_order: 7
 * Variance of Sample Mean
 * Expectation of Sample Variance
 * Bias Variance Trade-off
-* Confidence interval
-* Midterm review
+
+
 
 ### Lessons:
-* Statistics 2 [Slides]()
+* Statistics 2 [Slides](https://xinchenyu.github.io/csc380-spring24/Slides/24s380_statistics2.pdf)
 * Statistics 3 [Slides]()
 
 ### Important Dates:
+* Homework 4 due **Wednesday, Feb 28, 11:59pm**{: .label .label-red }
 * Midterm **Thursday, Mar 14**{: .label .label-red }
 
 
@@ -29,4 +30,6 @@ nav_order: 7
 * Statistics 3
     * WJ: sec 16.1-16.2
 
+### Resources
+* [Calculus cheet sheet](https://www.eeweb.com/tools/calculus-derivatives-and-limits-reference-sheet/)
 

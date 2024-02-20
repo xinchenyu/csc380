@@ -7,12 +7,13 @@ nav_order: 8
 ---
 
 ### Learning Objectives:
-
+* Confidence interval
 
 ### Lessons:
 * Statistics 4 [Slides]()
 
 ### Important Dates:
+* Homework 4 due **Wednesday, Feb 28, 11:59pm**{: .label .label-red }
 * Midterm **Thursday, Mar 14**{: .label .label-red }
 
 
