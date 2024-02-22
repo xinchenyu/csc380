@@ -17,7 +17,7 @@ nav_order: 7
 
 ### Lessons:
 * Statistics 2 [Slides](https://xinchenyu.github.io/csc380-spring24/Slides/24s380_statistics2.pdf)
-* Statistics 3 [Slides]()
+* Statistics 3 [Slides](https://xinchenyu.github.io/csc380-spring24/Slides/24s380_statistics3.pdf)
 
 ### Important Dates:
 * Homework 4 due **Wednesday, Feb 28, 11:59pm**{: .label .label-red }
