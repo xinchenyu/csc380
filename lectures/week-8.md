@@ -10,7 +10,7 @@ nav_order: 8
 * Confidence interval
 
 ### Lessons:
-* Statistics 4 [Slides](https://xinchenyu.github.io/csc380-spring24/Slides/24s380_statistic4.pdf)
+* Statistics 4 [Slides](https://xinchenyu.github.io/csc380-spring24/Slides/24s380_statistics4.pdf)
 
 ### Important Dates:
 * Homework 4 due **Wednesday, Feb 28, 11:59pm**{: .label .label-red }
