@@ -1,6 +1,6 @@
 ---
 layout: module
-title: Week 8 - Statistics 4 & 5 & Midterm review
+title: Week 8 - Statistics 4 & 5 & Midterm review 1
 permalink: /modules/week8
 parent: Modules
 nav_order: 8
@@ -11,7 +11,7 @@ nav_order: 8
 
 ### Lessons:
 * Statistics 4 [Slides](https://xinchenyu.github.io/csc380-spring24/Slides/24s380_statistics4.pdf)
-* Statistics 5 & Midterm review [Slides](https://xinchenyu.github.io/csc380-spring24/Slides/24s380_midterm.pdf)
+* Statistics 5 & Midterm review 1 [Slides](https://xinchenyu.github.io/csc380-spring24/Slides/24s380_midterm.pdf)
 
 
 ### Important Dates:
