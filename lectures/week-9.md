@@ -7,7 +7,7 @@ nav_order: 9
 ---
 
 ### Learning Objectives:
-* Decision Tree
+* Midterm review 2
 
 
 ### Lessons:

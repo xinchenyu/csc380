@@ -7,13 +7,13 @@ nav_order: 10
 ---
 
 ### Learning Objectives:
+* Decision Tree
 * KNN
 * Cross Validation
-* Naive Bayes Classifier
 
 ### Lessons:
+* Basics of predictive modeling and classification 1 [Slides](https://xinchenyu.github.io/csc380-spring24/Slides/24s380_predictive1.pdf)
 * Basics of predictive modeling and classification 2 [Slides]()
-* Basics of predictive modeling and classification 3 [Slides]()
 
 
 ### Additional Readings:
