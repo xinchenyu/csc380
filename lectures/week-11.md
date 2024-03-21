@@ -29,3 +29,4 @@ nav_order: 11
 * [Proof: Ordinary least square](https://en.wikipedia.org/wiki/Proofs_involving_ordinary_least_squares) 
 * [Proof: MLE for linear regression](https://statproofbook.github.io/P/slr-mle.html)
 * [How regularization works conceptually](https://explained.ai/regularization/constraints.html#sec:2.2)
+* [Probability Review before understanding Naive Bayes](https://medium.com/@akshayc123/prerequisite-for-naive-bayes-classifier-c9a919ef88c6)
