@@ -7,12 +7,13 @@ nav_order: 11
 ---
 
 ### Learning Objectives:
+* Naive Bayes
 * Linear Regression
 * Least Squares Estimation
 
 
 ### Lessons:
-* Basics of predictive modeling and classification 3 [Slides]()
+* Basics of predictive modeling and classification 3 [Slides](https://xinchenyu.github.io/csc380-spring24/Slides/24s380_predictive3.pdf)
 * Linear Models 1 [Slides]()
 
 
