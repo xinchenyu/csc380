@@ -14,7 +14,7 @@ nav_order: 11
 
 ### Lessons:
 * Basics of predictive modeling and classification 3 [Slides](https://xinchenyu.github.io/csc380-spring24/Slides/24s380_predictive3.pdf)
-* Linear Models 1 [Slides]()
+* Linear Models 1 [Slides](https://xinchenyu.github.io/csc380-spring24/Slides/24s380_linear1.pdf)
 
 
 ### Additional Readings:
@@ -24,7 +24,7 @@ nav_order: 11
     *  MK: sec. 7.1-7.3, 7.5-7.6
 
 ### Important Dates:
-* Homework 6 due **Friday, Nov 10, 11:59pm**{: .label .label-red }
+* Homework 6 due **Friday, Mar 29, 11:59pm**{: .label .label-red }
 
 ### Resources
 * [Proof: Ordinary least square](https://en.wikipedia.org/wiki/Proofs_involving_ordinary_least_squares) 
