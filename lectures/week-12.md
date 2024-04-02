@@ -14,11 +14,12 @@ nav_order: 12
 
 
 ### Lessons:
-* Linear Models 2 [Slides]()
+* Linear Models 2 [Slides](https://xinchenyu.github.io/csc380-spring24/Slides/24s380_linear2.pdf)
 * Linear Models 3 [Slides]()
  
 
 ### Important Dates:
+* Homework 7 due **Wednesday, Mar 10, 11:59pm**{: .label .label-red }
 
 
 ### Additional Readings:
