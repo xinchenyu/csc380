@@ -15,7 +15,7 @@ nav_order: 12
 
 ### Lessons:
 * Linear Models 2 [Slides](https://xinchenyu.github.io/csc380-spring24/Slides/24s380_linear2.pdf)
-* Linear Models 3 [Slides]()
+* Linear Models 3 [Slides](https://xinchenyu.github.io/csc380-spring24/Slides/24s380_linear3.pdf)
  
 
 ### Important Dates:
