@@ -14,10 +14,10 @@ nav_order: 13
 
 ### Lessons:
 * Linear Models 4 [Slides](https://xinchenyu.github.io/csc380-spring24/Slides/24s380_linear4.pdf)
-* Nonlinear Models 1 [Slides]()
+* Nonlinear Models 1 [Slides](https://xinchenyu.github.io/csc380-spring24/Slides/24s380_nonlinear1.pdf)
 
 ### Important Dates:
-* Homework 7 due **Wednesday, Apr 10, 11:59pm**{: .label .label-red }
+* Homework 8 due **Friday, Apr 10, 11:59pm**{: .label .label-red }
 
 ### Additional Readings:
 * Linear Models 4

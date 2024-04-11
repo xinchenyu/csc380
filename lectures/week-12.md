@@ -19,7 +19,7 @@ nav_order: 12
  
 
 ### Important Dates:
-* Homework 7 due **Wednesday, Mar 10, 11:59pm**{: .label .label-red }
+* Homework 7 due **Wednesday, Apr 10, 11:59pm**{: .label .label-red }
 
 
 ### Additional Readings:
