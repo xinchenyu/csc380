@@ -1,6 +1,6 @@
 ---
 layout: module
-title: Week 15 - Clustering & Course wrap-up 1
+title: Week 15 - Clustering & Course wrap-up
 permalink: /modules/week15
 parent: Modules
 nav_order: 15
@@ -8,10 +8,11 @@ nav_order: 15
 
 ### Learning Objectives:
 * K-means
+* Course wrap-up
 
 ### Lessons:
 * Clustering [Slides](https://xinchenyu.github.io/csc380-spring24/Slides/24s380_clustering1.pdf)
-* Course wrap-up 1 [Slides]()
+* Course wrap-up 1 [Slides](https://xinchenyu.github.io/csc380-spring24/Slides/24s380_final.pdf)
 
 
 ### Important Dates:

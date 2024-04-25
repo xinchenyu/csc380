@@ -1,6 +1,6 @@
 ---
 layout: module
-title: Week 16 - Course Wrap-Up 2
+title: Week 16 - Q&A
 permalink: /modules/week16
 parent: Modules
 nav_order: 16
@@ -8,7 +8,7 @@ nav_order: 16
 
 
 ### Lessons:
-* Course wrap-up 2 [Slides]()
+No lecture
 
 
 ### Important Dates:
