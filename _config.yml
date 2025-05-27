@@ -19,7 +19,7 @@ description:
   University of Arizona CSC380 "Principle of Data Science",
   Spring 2024. 
 # author: Xinchen Yu
-baseurl: '/csc380-spring24' # the subpath of your site, e.g. /blog
+baseurl: '/csc380' # the subpath of your site, e.g. /blog
 url: 'https://xinchenyu.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
