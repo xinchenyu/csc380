@@ -9,7 +9,7 @@ nav_order: 1
 
 | Dates         | Topics                                   | Homework  | Notes                    |
 |:-------------:|:----------------------------------------:|:---------:|:------------------------:|
-|[ <br /> Jan 11]({{ site.baseurl }}{% link lectures/week-1.md %})|  <br /> Course Overview     |                          |
+|[ <br /> Aug 26]({{ site.baseurl }}{% link lectures/week-1.md %})|  <br /> Course Overview     |                          |
 |[Jan 16 <br />  Jan 18]({{ site.baseurl }}{% link lectures/week-2.md %})  | Probability 1   <br /> Probability 2     |<br/> [HW1 Out]({{ site.baseurl }}{% link homeworks/hw-01.md %})   | 
 |[Jan 23 <br />  Jan 25]({{ site.baseurl }}{% link lectures/week-3.md %})  | Probability 3   <br /> Probability 4     |                                                                   |HW1 Due**Jan 26**{: .label .label-purple }
 |[Jan 30 <br />  Feb 1]({{ site.baseurl }}{% link lectures/week-4.md %})   | Probability 5   <br /> Probability 6     | [HW2 Out]({{ site.baseurl }}{% link homeworks/hw-02.md %})  <br/><br/>      |

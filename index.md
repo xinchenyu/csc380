@@ -1,6 +1,6 @@
 ---
 layout: home
-title: CSC380, Spring 2024
+title: CSC380, Fall 2025
 nav_exclude: true
 seo:
 type: Course
@@ -21,11 +21,11 @@ The course has three main components: data analysis, machine learning, and a pro
 
 ## Logistics info
 
-Time and venue: Tuesday and Thursday 3:30-4:45pm
+Time and venue: Tuesday and Thursday 5:00-6:15pm at [ILC 130](https://classrooms.registrar.arizona.edu/70/130)
 -  [Syllabus](https://xinchenyu.github.io/csc380-spring24/Syllabus/syllabus.pdf)
--  [Piazza link](https://piazza.com/arizona/spring2024/csc380) Access code: wildcats
--  [Gradescope](https://www.gradescope.com/courses/692188) Entry code: 8EZRBY  (NB: Please make sure your gradescope email address is the same as the one you have on D2L.)
--  [D2L course webpage](https://d2l.arizona.edu/d2l/home/1403936): lecture video recordings will be at "UA Tools" -> "Zoom" (NB: Zoom links are for **recordings only** and are not for live-streaming lectures.)
+-  [Gradescope](https://www.gradescope.com/courses/1047972) 
+-  [D2L course webpage](https://d2l.arizona.edu/d2l/home/1618587)
+-  [Piazza link](https://piazza.com/arizona/fall2025/csc380) (access code: `wildcats`)
 
 
 We will be using Piazza to make important announcements and do Q&As. Some general rules:
