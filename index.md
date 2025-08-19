@@ -16,7 +16,7 @@ This course introduces students to principles of data science that are necessary
 A number of computer science sub-disciplines 
 now rely on data collection and analysis. For example, computer systems are now complicated enough that comparing the execution performance of two different programs becomes a statistical estimation problem 
 rather than a deterministic computation. This course teaches students the basic principles of how to properly collect and process data sources in order to derive appropriate conclusions from them. 
-The course has three main components: data analysis, machine learning, and a project where students apply the concepts discussed in class to a substantial open-ended problem.
+The course has main components of: basic probability, basic statistics and data wrangling, and basic data analysis using programming libraries.
 
 
 ## Logistics info
@@ -36,10 +36,11 @@ We will be using Piazza to make important announcements and do Q&As. Some genera
 
 ## Course staff
 * Instructor: Xinchen Yu
-* Teaching assistants: 
+* Teaching assistants: Saiful Salim, Haris Riaz, Tian Tan
 
 Office hours:
-* Xinchen Yu: Tuesday 2:00pm-3:00pm, Gould-Simpson 854
+* Xinchen Yu: Thursday `12:00pm-2:00pm`, Gould-Simpson 829. 
+  * You are welcome to drop in at any time during this period. However, students in this course will be given priority from `1:00pm-2:00pm`. If you arrive outside of this priority window, please understand that wait times may vary depending on whether students from another course are being helped.
 
 
 
@@ -49,11 +50,14 @@ There is no single designated textbook for this course. Much of the course mater
 
 -  [WJ: Watkins, J., "An Introduction to the Science of Statistics: From Theory to Implementation"](https://www.math.arizona.edu/~jwatkins/statbook.pdf)
 
--  [MK: Murphy, K. "Machine Learning: A Probabilistic Perspective." MIT press, 2012](https://arizona-primo.hosted.exlibrisgroup.com/permalink/f/6ljalh/01UA_ALMA51543591360003843) (accessible online via UA library)
-
 -  [WL: Wasserman, L. "All of Statistics: A Concise Course in Statistical Inference." Springer, 2004](https://link.springer.com/book/10.1007/978-0-387-21736-9) (accessible online via UA library)
 
 - [ISL: James, G., Witten, D., Hastie, T., & Tibshirani, R. An introduction to statistical learning with Applications in Python. New York: Springer](https://www.statlearning.com/)
+
+- [Sam Lau, Joey Gonzalez, Deb Nolan, “Learning Data Science”, O’Reilly, 2023](https://learningds.org/intro.html)
+
+- [Steven S. Skiena, ”The Data Science Design Manual”, Springer, 2017](https://link.springer.com/book/10.1007/978-3-319-55444-0)
+
 
 
 ## Other useful resources

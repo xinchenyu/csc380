@@ -99,7 +99,7 @@
   },"14": {
     "doc": "CSC380, Fall 2025",
     "title": "Overview",
-    "content": "This course introduces students to principles of data science that are necessary for computer scientists to make effective decisions in their professional careers. A number of computer science sub-disciplines now rely on data collection and analysis. For example, computer systems are now complicated enough that comparing the execution performance of two different programs becomes a statistical estimation problem rather than a deterministic computation. This course teaches students the basic principles of how to properly collect and process data sources in order to derive appropriate conclusions from them. The course has three main components: data analysis, machine learning, and a project where students apply the concepts discussed in class to a substantial open-ended problem. ",
+    "content": "This course introduces students to principles of data science that are necessary for computer scientists to make effective decisions in their professional careers. A number of computer science sub-disciplines now rely on data collection and analysis. For example, computer systems are now complicated enough that comparing the execution performance of two different programs becomes a statistical estimation problem rather than a deterministic computation. This course teaches students the basic principles of how to properly collect and process data sources in order to derive appropriate conclusions from them. The course has main components of: basic probability, basic statistics and data wrangling, and basic data analysis using programming libraries. ",
     "url": "/csc380/#overview",
     
     "relUrl": "/#overview"
@@ -113,14 +113,14 @@
   },"16": {
     "doc": "CSC380, Fall 2025",
     "title": "Course staff",
-    "content": ". | Instructor: Xinchen Yu | Teaching assistants: | . Office hours: . | Xinchen Yu: Tuesday 2:00pm-3:00pm, Gould-Simpson 854 | . ",
+    "content": ". | Instructor: Xinchen Yu | Teaching assistants: Saiful Salim, Haris Riaz, Tian Tan | . Office hours: . | Xinchen Yu: Thursday 12:00pm-2:00pm, Gould-Simpson 829. | You are welcome to drop in at any time during this period. However, students in this course will be given priority from 1:00pm-2:00pm. If you arrive outside of this priority window, please understand that wait times may vary depending on whether students from another course are being helped. | . | . ",
     "url": "/csc380/#course-staff",
     
     "relUrl": "/#course-staff"
   },"17": {
     "doc": "CSC380, Fall 2025",
     "title": "Textbook",
-    "content": "There is no single designated textbook for this course. Much of the course materials and assigned readings will be based on the following books: . | WJ: Watkins, J., “An Introduction to the Science of Statistics: From Theory to Implementation” . | MK: Murphy, K. “Machine Learning: A Probabilistic Perspective.” MIT press, 2012 (accessible online via UA library) . | WL: Wasserman, L. “All of Statistics: A Concise Course in Statistical Inference.” Springer, 2004 (accessible online via UA library) . | ISL: James, G., Witten, D., Hastie, T., &amp; Tibshirani, R. An introduction to statistical learning with Applications in Python. New York: Springer . | . ",
+    "content": "There is no single designated textbook for this course. Much of the course materials and assigned readings will be based on the following books: . | WJ: Watkins, J., “An Introduction to the Science of Statistics: From Theory to Implementation” . | WL: Wasserman, L. “All of Statistics: A Concise Course in Statistical Inference.” Springer, 2004 (accessible online via UA library) . | ISL: James, G., Witten, D., Hastie, T., &amp; Tibshirani, R. An introduction to statistical learning with Applications in Python. New York: Springer . | Sam Lau, Joey Gonzalez, Deb Nolan, “Learning Data Science”, O’Reilly, 2023 . | Steven S. Skiena, ”The Data Science Design Manual”, Springer, 2017 . | . ",
     "url": "/csc380/#textbook",
     
     "relUrl": "/#textbook"
@@ -188,9 +188,9 @@
     
     "relUrl": "/staff/"
   },"27": {
-    "doc": "Week 1 - Course Overview",
-    "title": "Week 1 - Course Overview",
-    "content": "Learning Objectives: . | Course overview | . Lessons: . | Course overview Slides | . Additional Readings: . | Class Syllabus | What is Data Science? | . ",
+    "doc": "Week 1 - Course Overview & Basic Data Analysis 1",
+    "title": "Week 1 - Course Overview & Basic Data Analysis 1",
+    "content": "Learning Objectives: . | Course overview | Basic Data Analysis 1 | . Lessons: . | Course overview Slides | . Important Dates: . | Homework 1 out, due Friday, Sep 5, 11:59pm | . Additional Readings: . | Class Syllabus | What is Data Science? | . ",
     "url": "/csc380/modules/week1",
     
     "relUrl": "/modules/week1"
