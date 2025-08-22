@@ -8,7 +8,7 @@ nav_order: 4
 ## Office Hours
 
 
-## Instructors
+## Instructor
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 {% for staffer in instructors %}

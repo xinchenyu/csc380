@@ -7,7 +7,7 @@ nav_order: 1
 
 ## Tentative schedule
 
-All assignments due at 11:59pm.
+> **Note:** All assignments due at 11:59pm.
 
 
 | Dates         | Topics                                   | Homework  | Notes                    |

@@ -12,7 +12,8 @@ nav_order: 1
 
 
 ### Lessons:
-* Course overview [Slides]()
+* Course overview [slides]()
+* Basic Data Analysis 1	[slides]()
 
 
 ### Important Dates:

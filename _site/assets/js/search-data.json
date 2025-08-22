@@ -113,7 +113,7 @@
   },"16": {
     "doc": "CSC380, Fall 2025",
     "title": "Course staff",
-    "content": ". | Instructor: Xinchen Yu | Teaching assistants: Saiful Salim, Haris Riaz, Tian Tan | . Office hours: . | Xinchen Yu: Thursday 12:00pm-2:00pm, Gould-Simpson 829. | You are welcome to drop in at any time during this period. However, students in this course will be given priority from 1:00pm-2:00pm. If you arrive outside of this priority window, please understand that wait times may vary depending on whether students from another course are being helped. | . | . ",
+    "content": ". | Instructor: Xinchen Yu | Teaching assistants: Thang Nhat Duong, Tian Tan, Haris Riaz | . Office hours: . | Xinchen Yu: Thursday 12:00pm-2:00pm, Gould-Simpson 829. | You are welcome to drop in at any time during this period. However, students in this course will be given priority from 1:00pm-2:00pm. If you arrive outside of this priority window, please understand that wait times may vary depending on whether students from another course are being helped. | . | . ",
     "url": "/csc380/#course-staff",
     
     "relUrl": "/#course-staff"
@@ -148,7 +148,7 @@
   },"21": {
     "doc": "Calendar",
     "title": "Tentative schedule",
-    "content": "All assignments due at 11:59pm. | Dates | Topics | Homework | Notes | . | Aug 26 Aug 28 | Course Overview Basic Data Analysis 1 | HW1 Out |   | . | Sep 2 Sep 4 | Probability 1.1 Probability 1.2 |   | HW1 DueSep 5 | . | Sep 9 Sep 11 | Probability 2.1 Probability 2.2 | HW2 Out |   | . | Sep 16 Sep 18 | Probability 2.3 Probability 3.1 | HW3 Out | HW2 DueSep 17 | . | Sep 23 Sep 25 | Probability 3.2 Probability 3.3 |   |   | . | Sep 30 Oct 2 | Probability 3.4 Probability 4.1 | HW4 Out | HW3 DueSep 30 | . | Oct 7 Oct 9 | Probability 4.2 Probability 4.3 |   |   | . | Oct 14 Oct 16 | Midterm review Probability 4.4 |   | HW4 DueOct 14 | . | Oct 21 Oct 23 | Midterm Basic Data Analysis 2.1 | HW5 Out |   | . | Oct 28 Oct 30 | Basic Data Analysis 2.2 Basic Data Analysis 3.1 |   |   | . | Nov 4 Nov 6 | Basic Data Analysis 3.2 Basic Data Analysis 3.3 | HW6 Out | HW5 DueNov 4 | . | Nov 13 | Basic Data Analysis 4.1 |   |   | . | Nov 18 Nov 20 | Basic Data Analysis 4.2 Basic Statistics 1 | HW7 Out | HW6 DueNov 18 | . | Nov 25 | Basic Statistics 2 |   |   | . | Dec 2 Dec 4 | Basic Statistics 3 Basic Data Analysis 5 |   | HW7 DueDec 4 | . | Dec 9 Dec 11 | Final review |   |   | . | Dec 17 | Final exam |   |   | . ",
+    "content": "Note: All assignments due at 11:59pm. | Dates | Topics | Homework | Notes | . | Aug 26 Aug 28 | Course Overview Basic Data Analysis 1 | HW1 Out |   | . | Sep 2 Sep 4 | Probability 1.1 Probability 1.2 |   | HW1 DueSep 5 | . | Sep 9 Sep 11 | Probability 2.1 Probability 2.2 | HW2 Out |   | . | Sep 16 Sep 18 | Probability 2.3 Probability 3.1 | HW3 Out | HW2 DueSep 17 | . | Sep 23 Sep 25 | Probability 3.2 Probability 3.3 |   |   | . | Sep 30 Oct 2 | Probability 3.4 Probability 4.1 | HW4 Out | HW3 DueSep 30 | . | Oct 7 Oct 9 | Probability 4.2 Probability 4.3 |   |   | . | Oct 14 Oct 16 | Midterm review Probability 4.4 |   | HW4 DueOct 14 | . | Oct 21 Oct 23 | Midterm Basic Data Analysis 2.1 | HW5 Out |   | . | Oct 28 Oct 30 | Basic Data Analysis 2.2 Basic Data Analysis 3.1 |   |   | . | Nov 4 Nov 6 | Basic Data Analysis 3.2 Basic Data Analysis 3.3 | HW6 Out | HW5 DueNov 4 | . | Nov 13 | Basic Data Analysis 4.1 |   |   | . | Nov 18 Nov 20 | Basic Data Analysis 4.2 Basic Statistics 1 | HW7 Out | HW6 DueNov 18 | . | Nov 25 | Basic Statistics 2 |   |   | . | Dec 2 Dec 4 | Basic Statistics 3 Basic Data Analysis 5 |   | HW7 DueDec 4 | . | Dec 9 Dec 11 | Final review |   |   | . | Dec 17 | Final exam |   |   | . ",
     "url": "/csc380/calendar/#tentative-schedule",
     
     "relUrl": "/calendar/#tentative-schedule"
@@ -168,15 +168,15 @@
     "relUrl": "/staff/#office-hours"
   },"24": {
     "doc": "Staff",
-    "title": "Instructors",
-    "content": "Xinchen Yu . xinchenyu@arizona.edu . Office Hours Tuesday 2:00pm-3:00pm, Gould-Simpson 854 . ",
-    "url": "/csc380/staff/#instructors",
+    "title": "Instructor",
+    "content": "Xinchen Yu . xinchenyu@arizona.edu . Office Hours Thursday 12:00pm-2:00pm (priority window 1:00-2:00pm) . Room Gould-Simpson 829 . ",
+    "url": "/csc380/staff/#instructor",
     
-    "relUrl": "/staff/#instructors"
+    "relUrl": "/staff/#instructor"
   },"25": {
     "doc": "Staff",
     "title": "Teaching Assistants",
-    "content": "Tugay Bilgis . tbilgis@arizona.edu . Office Hours Monday 3:30pm-4:30pm, Gould-Simpson 938 . Yash Agarwal . yashagarwal@arizona.edu . Office Hours Wednesday 5:00pm-6:00pm, Gould-Simpson 938 . David McLain . davidmclain@arizona.edu . Office Hours 1 Thursday 11:00am-12:00pm, Gould-Simpson 931 . Office Hours 2 Friday 11:00am-12:00pm, zoom link . Yinan Li . yinanli@arizona.edu . Office Hours Thursday 5:30pm-6:30pm, Gould-Simpson 942 . ",
+    "content": "Thang Nhat Duong . thangduong@arizona.edu . Office Hours 1 Thursday 10:30pm-12:00pm . Office Hours 2 Friday 10:30pm-12:00pm . Room Tian Tan . tiantan@arizona.edu . Office Hours 1 Tuesday 1:45pm-2:45pm . Office Hours 2 Wednesday 9:00am-10:00am . Room ",
     "url": "/csc380/staff/#teaching-assistants",
     
     "relUrl": "/staff/#teaching-assistants"
@@ -190,7 +190,7 @@
   },"27": {
     "doc": "Week 1 - Course Overview & Basic Data Analysis 1",
     "title": "Week 1 - Course Overview & Basic Data Analysis 1",
-    "content": "Learning Objectives: . | Course overview | Basic Data Analysis 1 | . Lessons: . | Course overview Slides | . Important Dates: . | Homework 1 out, due Friday, Sep 5, 11:59pm | . Additional Readings: . | Class Syllabus | What is Data Science? | . ",
+    "content": "Learning Objectives: . | Course overview | Basic Data Analysis 1 | . Lessons: . | Course overview slides | Basic Data Analysis 1 slides | . Important Dates: . | Homework 1 out, due Friday, Sep 5, 11:59pm | . Additional Readings: . | Class Syllabus | What is Data Science? | . ",
     "url": "/csc380/modules/week1",
     
     "relUrl": "/modules/week1"

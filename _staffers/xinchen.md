@@ -5,6 +5,7 @@ email: xinchenyu@arizona.edu
 website: https://xinchenyu.github.io
 photo: xinchen.jpg
 meta:
-  Office Hours: Tuesday 2:00pm-3:00pm, Gould-Simpson 854
+  Office Hours: Thursday 12:00pm-2:00pm (priority window 1:00-2:00pm) 
+  Room: Gould-Simpson 829
 ---
 

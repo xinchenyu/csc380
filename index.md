@@ -22,7 +22,7 @@ The course has main components of: basic probability, basic statistics and data 
 ## Logistics info
 
 Time and venue: Tuesday and Thursday 5:00-6:15pm at [ILC 130](https://classrooms.registrar.arizona.edu/70/130)
--  [Syllabus](https://xinchenyu.github.io/csc380-spring24/Syllabus/syllabus.pdf)
+-  [Syllabus](https://xinchenyu.github.io/csc380/Syllabus/syllabus.pdf)
 -  [Gradescope](https://www.gradescope.com/courses/1047972) 
 -  [D2L course webpage](https://d2l.arizona.edu/d2l/home/1618587)
 -  [Piazza link](https://piazza.com/arizona/fall2025/csc380) (access code: `wildcats`)
@@ -35,8 +35,8 @@ We will be using Piazza to make important announcements and do Q&As. Some genera
   This will help facilitate our processings of your requests significantly.
 
 ## Course staff
-* Instructor: Xinchen Yu
-* Teaching assistants: Saiful Salim, Haris Riaz, Tian Tan
+* [Instructor](staff.md): Xinchen Yu
+* [Teaching assistants](staff.md): Thang Nhat Duong, Tian Tan, Haris Riaz
 
 Office hours:
 * Xinchen Yu: Thursday `12:00pm-2:00pm`, Gould-Simpson 829. 
