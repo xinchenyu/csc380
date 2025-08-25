@@ -1,29 +1,30 @@
 ---
 layout: module
-title: Week 4 - Probability 5 & Probability 6
+title: Week 4 - Probability 2.3 & 3.1
 permalink: /modules/week4
 parent: Modules
 nav_order: 4
 ---
 
 ### Learning Objectives:
-* Expectation
-* Variance
-* Covariance
-* Independence and Moments 
+* Probability and combinatorics
+* Random variables
+* Distribution functions 
 
 
 ### Lessons:
-*  Probability 5 [Slides](https://xinchenyu.github.io/csc380-spring24/Slides/24s380_probability5.pdf)
-*  Probability 6 [Slides](https://xinchenyu.github.io/csc380-spring24/Slides/24s380_probability6.pdf)
+*  Probability 2.3 [Slides]()
+*  Probability 3.1 [Slides]()
 
 ### Important Dates:
-* Homework 2 due **Wednesday, Feb 7, 11:59pm**{: .label .label-red }
+* Homework 3 due **Tuesday, Sep 30, 11:59pm**{: .label .label-red }
 
-### Additional Readings:
-* Probability 5
-    * WL: Ch. 3
-    * WJ: Ch. 8
+### Readings:
+* Probability 2.3
+    * WJ: Chapter 7
+* Probability 3.1
+    * WJ: Chapter 8
+* [An Interactive Fagan Nomogram](https://cscheid.net/v2/hacks/fagan-nomogram.html)
 
 
 

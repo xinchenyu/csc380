@@ -1,30 +1,32 @@
 ---
 layout: module
-title: Week 5 - Data processing and visualization 1 & 2
+title: Week 5 - Probability 3.2 & 3.3
 permalink: /modules/week5
 parent: Modules
 nav_order: 5
 ---
 
 ### Learning Objectives:
-* Research Design
-* Data Collection and Sampling
-* Pandas and Data visualization
+* Discrete random variables
+    *   Probability mass functions (PMF)
+* Continuous random variables
+    *   Probability density functions (PDF)
 
 
 ### Lessons:
-*  Data processing and visualization 1 [Slides](https://xinchenyu.github.io/csc380-spring24/Slides/24s380_data1.pdf)
-*  Data processing and visualization 2 [Slides](https://xinchenyu.github.io/csc380-spring24/Slides/24s380_data2.pdf)
+*  Probability 3.2 [Slides]()
+*  Probability 3.3 [Slides]()
 
-
-### Additional Readings:
-* Data processing and visualization 1 
-    * WJ: Ch. 1, 2
 
 ### Important Dates:
-* Homework 2 due **Wednesday, Feb 7, 11:59pm**{: .label .label-red }
+* Homework 3 due **Tuesday, Sep 30, 11:59pm**{: .label .label-red }
 
 
-### Resources
-* [Proof: Bias of Sample Variance](https://proofwiki.org/wiki/Bias_of_Sample_Variance)
-* [Bias Variance Decomposition](https://towardsdatascience.com/the-bias-variance-tradeoff-8818f41e39e9)
+### Readings:
+* Probability 3.2 
+    * WJ: Chapter 9
+* Probability 3.3 
+    * WJ: Chapter 7.5
+
+### Resources:
+* [Calculus cheet sheet](https://www.eeweb.com/tools/calculus-derivatives-and-limits-reference-sheet/)

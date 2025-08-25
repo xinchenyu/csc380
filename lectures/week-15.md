@@ -1,23 +1,23 @@
 ---
 layout: module
-title: Week 15 - Clustering & Course wrap-up
+title: Week 15 - Statistics 3.1 & Statistics 3.2
 permalink: /modules/week15
 parent: Modules
 nav_order: 15
 ---
 
 ### Learning Objectives:
-* K-means
-* Course wrap-up
+* Interval estimation
+* Hypothesis testing
 
 ### Lessons:
-* Clustering [Slides](https://xinchenyu.github.io/csc380-spring24/Slides/24s380_clustering1.pdf)
-* Course wrap-up 1 [Slides](https://xinchenyu.github.io/csc380-spring24/Slides/24s380_final.pdf)
+* Statistics 3.1 [Slides]()
+* Statistics 3.2 [Slides]()
 
 
 ### Important Dates:
-* Final project due **Friday, May 2, 11:59pm**{: .label .label-red }
-* Final Exam **Wednesday, May 8, 3:30-5:30pm**{: .label .label-red }
+* Homework 7 due **Thursday, Dec 4, 11:59pm**{: .label .label-red }
+* Final project due **Thursday, Dec 11, 11:59pm**{: .label .label-red }
 
 
 

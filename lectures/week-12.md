@@ -1,32 +1,26 @@
 ---
 layout: module
-title: Week 12 - Linear Models 2 & 3
+title: Week 12 - Basic Data Analysis 4.1
 permalink: /modules/week12
 parent: Modules
 nav_order: 12
 ---
 
 ### Learning Objectives:
-* Regularized Least Squares: Ridge
-* Regularized Least Squares: LASSO
-* Feature Selection
+* Basis Functions
+* Support Vector Machine
 
 
 
 ### Lessons:
-* Linear Models 2 [Slides](https://xinchenyu.github.io/csc380-spring24/Slides/24s380_linear2.pdf)
-* Linear Models 3 [Slides](https://xinchenyu.github.io/csc380-spring24/Slides/24s380_linear3.pdf)
+* Basic Data Analysis 4.1 [Slides]()
  
 
 ### Important Dates:
-* Homework 7 due **Wednesday, Apr 10, 11:59pm**{: .label .label-red }
+* Homework 6 due **Tuesday, Nov 18, 11:59pm**{: .label .label-red }
+* Final project due **Thursday, Dec 11, 11:59pm**{: .label .label-red }
 
 
-### Additional Readings:
-* Linear Models 2 
-    * ISL sec. 6.1-6.2
-
-
-### Resources
-* [Likelihood function for logistic regression](https://www.stat.cmu.edu/~cshalizi/uADA/12/lectures/ch12.pdf)
-* [Cross-Entropy loss function and Bernoulli Distribution MLE](https://towardsdatascience.com/where-did-the-binary-cross-entropy-loss-function-come-from-ac3de349a715)
+### Readings:
+* Basic Data Analysis 4.1
+    * ISL 9.1, 9.2, 10.1, 10.2

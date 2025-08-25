@@ -1,33 +1,29 @@
 ---
 layout: module
-title: Week 11 - Basics of predictive modeling and classification 3 & Linear Models 1
+title: Week 11 - Basic Data Analysis 3.2 & 3.3
 permalink: /modules/week11
 parent: Modules
 nav_order: 11
 ---
 
 ### Learning Objectives:
-* Naive Bayes
-* Linear Regression
-* Least Squares Estimation
+* Logistic regression
+* Classification: other considerations
 
 
 ### Lessons:
-* Basics of predictive modeling and classification 3 [Slides](https://xinchenyu.github.io/csc380-spring24/Slides/24s380_predictive3.pdf)
-* Linear Models 1 [Slides](https://xinchenyu.github.io/csc380-spring24/Slides/24s380_linear1.pdf)
-
-
-### Additional Readings:
-* Basics of predictive modeling and classification 3
-    * MK: sec 3.5
-* Linear Models 1
-    *  MK: sec. 7.1-7.3, 7.5-7.6
+* Basic Data Analysis 3.2 [Slides]()
+* Basic Data Analysis 3.3 [Slides]()
 
 ### Important Dates:
-* Homework 6 due **Friday, Mar 29, 11:59pm**{: .label .label-red }
+* Homework 5 due **Tuesday, Nov 4, 11:59pm**{: .label .label-red }
+* Homework 6 due **Tuesday, Nov 18, 11:59pm**{: .label .label-red }
 
-### Resources
-* [Proof: Ordinary least square](https://en.wikipedia.org/wiki/Proofs_involving_ordinary_least_squares) 
-* [Proof: MLE for linear regression](https://statproofbook.github.io/P/slr-mle.html)
-* [How regularization works conceptually](https://explained.ai/regularization/constraints.html#sec:2.2)
-* [Probability Review before understanding Naive Bayes](https://medium.com/@akshayc123/prerequisite-for-naive-bayes-classifier-c9a919ef88c6)
+### Readings:
+* Basic Data Analysis 3.2 
+    * ISL 4.3
+* Basic Data Analysis 3.3 
+    * ISL 4.4.2 (start from page 161)	
+    
+### Resources:
+* [Likelihood function for logistic regression](https://www.stat.cmu.edu/~cshalizi/uADA/12/lectures/ch12.pdf)

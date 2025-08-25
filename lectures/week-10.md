@@ -1,28 +1,30 @@
 ---
 layout: module
-title: Week 10 - Basics of predictive modeling and classification 1 & 2
+title: Week 10 - Basic Data Analysis 2.2 & 3.1
 permalink: /modules/week10
 parent: Modules
 nav_order: 10
 ---
 
 ### Learning Objectives:
-* Decision Tree
-* KNN
-* Cross Validation
+* Overfitting and underfitting
+* Regularization in regression
+* Feature Selection
+* Nearest neighbor Classification
+
 
 ### Lessons:
-* Basics of predictive modeling and classification 1 [Slides](https://xinchenyu.github.io/csc380-spring24/Slides/24s380_predictive1.pdf)
-* Basics of predictive modeling and classification 2 [Slides](https://xinchenyu.github.io/csc380-spring24/Slides/24s380_predictive2.pdf)
-
-
-### Additional Readings:
-* Basics of predictive modeling and classification 1
-    * MK: sec 1.1-1.3
-* Basics of predictive modeling and classification 2
-    * MK: sec 1.4
+* Basic Data Analysis 2.2 [Slides]()
+* Basic Data Analysis 3.1 [Slides]()
 
 
 ### Important Dates:
-* Homework 6 due **Friday, Mar 29, 11:59pm**{: .label .label-red }
+* Homework 5 due **Tuesday, Nov 4, 11:59pm**{: .label .label-red }
+
+
+### Readings:
+* Basic Data Analysis 2.2
+    * ISL 6.1, 6.2
+* Basic Data Analysis 3.1
+    * ISL 2.2
 

@@ -1,31 +1,31 @@
 ---
 layout: module
-title: Week 6 - Data processing and visualization 3 & Statistics 1 
+title: Week 6 - Probability 3.4 & 4.1 
 permalink: /modules/week6
 parent: Modules
 nav_order: 6
 ---
 
 ### Learning Objectives:
-* Data Summarization
-* Parameter estimation
-* Law of large numbers
-* Central limit theorem
-
+* Summarizing continuous random variables
+    * Mean
+    * Variance
+* Multivariate random variables
+    * Joint vs. marginal distribution
+    * Independence of random variables
 
 ### Lessons:
-*  Data processing and visualization 3 [Slides](https://xinchenyu.github.io/csc380-spring24/Slides/24s380_data3.pdf)
-*  Statistics 1 [Slides](https://xinchenyu.github.io/csc380-spring24/Slides/24s380_statistics1.pdf)
+*  Probability 3.4 [Slides]()
+*  Probability 4.1 [Slides]()
 
 ### Important Dates:
-* Homework 3 due **Friday, Feb 16, 11:59pm**{: .label .label-red }
+* Homework 3 due **Tuesday, Sep 30, 11:59pm**{: .label .label-red }
+* Homework 4 due **Tuesday, Oct 14, 11:59pm**{: .label .label-red }
 
 
-### Additional Readings:
-* Statistics 1
-    * WL: Sec. 9.1-9.2, Sec 6.3
-    * WJ: Ch. 12
-* Statistics 4
-    * WJ: sec 20.1-20.4
-    * WL: sec 8.3
+### Readings:
+* Probability 3.4
+    * WJ: Chapter 8.4-8.6
+* Probability 4.1
+    * WL: Chapter 7.7
 

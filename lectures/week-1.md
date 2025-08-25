@@ -9,16 +9,17 @@ nav_order: 1
 ### Learning Objectives:
 * Course overview
 * Basic Data Analysis 1	
-
+    *   Pandas
+    *   Descriptive statistics
+    *   Data visualization
 
 ### Lessons:
 * Course overview [slides]()
 * Basic Data Analysis 1	[slides]()
 
-
 ### Important Dates:
 * Homework 1 out, due **Friday, Sep 5, 11:59pm**{: .label .label-red }
 
-### Additional Readings:
+### Readings:
 * [Class Syllabus](https://xinchenyu.github.io/csc380/Syllabus/syllabus.pdf)
 * [What is Data Science?](http://www.pachecoj.com/courses/csc380_fall21/doc/what_is_data_science.pdf)

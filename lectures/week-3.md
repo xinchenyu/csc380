@@ -1,36 +1,30 @@
 ---
 layout: module
-title: Week 3 - Probability 3 & 4
+title: Week 3 - Probability 2.1 & 2.2
 permalink: /modules/week3
 parent: Modules
 nav_order: 3
 ---
 
 ### Learning Objectives:
-* Random Variable and Probability
-* Discrete Probability
-* Continous Probability
-* Probability Density Function
-* Probability Mass Function
+* Conditional probability
+* Probabilistic reasoning
+    * Useful tools: contingency table & probability trees
+* Bayes rule
+* Independence of events
+
  
-
-
 ### Lessons:
-*  Probability 3 [Slides](https://xinchenyu.github.io/csc380-spring24/Slides/24s380_probability3.pdf)
-*  Probability 4 [Slides](https://xinchenyu.github.io/csc380-spring24/Slides/24s380_probability4.pdf)
+*  Probability 2.1 [Slides]()
+*  Probability 2.2 [Slides]()
 
 ### Important Dates:
-* Homework 1 due **Friday, Jan 26, 11:59pm**{: .label .label-red }
+* Homework 2 due **Wednesday, Sep 17, 11:59pm**{: .label .label-red }
 
 
-### Additional Readings:
-* Probability 3
-    * WJ: Sec. 7.1 - 7.3.1
-* Probability 4
-    * WJ: Sec. 7.3.2 - 7.8, Ch. 9
-    * WL: Ch. 2
+### Readings:
+* Probability 2.1
+    * WJ: Chapter 6
+* Probability 2.2
+    * [Peter Donnelly: How stats fool juries](https://www.youtube.com/watch?v=kLmzxmRcUTo)
 
-
-### Resources
-* [Integration and the fundamental theorem of calculus](https://www.youtube.com/watch?v=rfG8ce4nNh0&t=668s)
-* [Derivative as a concept](https://www.youtube.com/watch?v=N2PpRnFqnqY)

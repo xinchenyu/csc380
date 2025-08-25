@@ -10,7 +10,7 @@ nav_order: 1
 > **Note:** All assignments due at 11:59pm.
 
 
-| Dates         | Topics                                   | Homework  | Notes                    |
+| Dates         | Topics                                   | Assignments  | Due Dates         |
 |:-------------:|:----------------------------------------:|:---------:|:------------------------:|
 |[Aug 26 <br /> Aug 28]({{ site.baseurl }}{% link lectures/week-1.md %})| Course Overview <br /> Basic Data Analysis 1|<br/> [HW1 Out]({{ site.baseurl }}{% link homeworks/hw-01.md %})|
 |[Sep 2 <br />  Sep 4]({{ site.baseurl }}{% link lectures/week-2.md %})  | Probability 1.1   <br /> Probability 1.2     |   | HW1 Due**Sep 5**{: .label .label-purple }
@@ -21,13 +21,13 @@ nav_order: 1
 |[Oct 7 <br />  Oct 9]({{ site.baseurl }}{% link lectures/week-7.md %})  | Probability 4.2   <br />  Probability 4.3    |          |
 |[Oct 14 <br />  Oct 16]({{ site.baseurl }}{% link lectures/week-8.md %})  | Midterm review  <br />  Probability 4.4    ||HW4 Due**Oct 14**{: .label .label-purple }
 |[Oct 21 <br />  Oct 23]({{ site.baseurl }}{% link lectures/week-9.md %})  | **Midterm**{: .label .label-red }  <br /> Basic Data Analysis 2.1 | <br/>[HW5 Out]({{ site.baseurl }}{% link homeworks/hw-05.md %})      |
-|[Oct 28 <br />  Oct 30]({{ site.baseurl }}{% link lectures/week-10.md %}) | Basic Data Analysis 2.2   <br /> Basic Data Analysis 3.1 |   |
+|[Oct 28 <br />  Oct 30]({{ site.baseurl }}{% link lectures/week-10.md %}) | Basic Data Analysis 2.2   <br /> Basic Data Analysis 3.1 |<br/>[Project Out]({{ site.baseurl }}{% link homeworks/final-project.md %})   |
 |[Nov 4 <br />  Nov 6]({{ site.baseurl }}{% link lectures/week-11.md %}) | Basic Data Analysis 3.2 <br /> Basic Data Analysis 3.3 |<br/>[HW6 Out]({{ site.baseurl }}{% link homeworks/hw-06.md %})       |HW5 Due**Nov 4**{: .label .label-purple }
 |[Nov 13]({{ site.baseurl }}{% link lectures/week-12.md %})  |  Basic Data Analysis 4.1  |     |
 |[Nov 18 <br />  Nov 20]({{ site.baseurl }}{% link lectures/week-13.md %}) | Basic Data Analysis 4.2   <br /> Basic Statistics 1 |<br/>[HW7 Out]({{ site.baseurl }}{% link homeworks/hw-07.md %}) |HW6 Due**Nov 18**{: .label .label-purple }
 |[Nov 25 ]({{ site.baseurl }}{% link lectures/week-14.md %}) | Basic Statistics 2 <br /> |  |
-|[Dec 2 <br />  Dec 4]({{ site.baseurl }}{% link lectures/week-15.md %})   | Basic Statistics 3  <br />  Basic Data Analysis 5 | | HW7 Due**Dec 4**{: .label .label-purple }
-|[Dec 9 <br />  Dec 11]({{ site.baseurl }}{% link lectures/week-16.md %})   | Final review       |                  |
+|[Dec 2 <br />  Dec 4]({{ site.baseurl }}{% link lectures/week-15.md %})   | Basic Statistics 3.1  <br />  Basic Statistics 3.2 | | HW7 Due**Dec 4**{: .label .label-purple }
+|[Dec 9 <br />  Dec 11]({{ site.baseurl }}{% link lectures/week-16.md %})   | Basic Data Analysis 5 <br/> Final review       |                  |Project Due**Dec 11**{: .label .label-purple }
 |Dec 17   | **Final exam**{: .label .label-red }               |                          |
 
 

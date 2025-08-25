@@ -1,26 +1,27 @@
 ---
 layout: module
-title: Week 8 - Statistics 4 & 5 & Midterm review 1
+title: Week 8 - Midterm review & Probability 4.4 
 permalink: /modules/week8
 parent: Modules
 nav_order: 8
 ---
 
 ### Learning Objectives:
-* Confidence interval
+* Central Limit Theorem
+
 
 ### Lessons:
-* Statistics 4 [Slides](https://xinchenyu.github.io/csc380-spring24/Slides/24s380_statistics4.pdf)
-* Statistics 5 & Midterm review 1 [Slides](https://xinchenyu.github.io/csc380-spring24/Slides/24s380_midterm.pdf)
+* Midterm review [Slides]()
+* Probability 4.4 [Slides]()
 
 
 ### Important Dates:
-* Homework 4 due **Wednesday, Feb 28, 11:59pm**{: .label .label-red }
-* Midterm **Thursday, Mar 14**{: .label .label-red }
+* Homework 4 due **Tuesday, Oct 14, 11:59pm**{: .label .label-red }
+* Midterm **Tuesday, Oct 21**{: .label .label-red }
 
 
-### Additional Readings:
-* Data processing and visualization 2
-    * WJ: Ch. 4
+### Readings:
+* Probability 4.4 
+    * WJ: Chapter 10 and 11
 
 
