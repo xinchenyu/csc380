@@ -14,7 +14,7 @@ nav_order: 1
     *   Data visualization
 
 ### Lessons:
-* Course overview [slides]()
+* Course overview [slides](https://xinchenyu.github.io/csc380/Slides/25f380_courseintro.pdf)
 * Basic Data Analysis 1	[slides]()
 
 ### Important Dates:
