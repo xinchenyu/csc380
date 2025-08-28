@@ -15,7 +15,7 @@ nav_order: 1
 
 ### Lessons:
 * Course overview [slides](https://xinchenyu.github.io/csc380/Slides/25f380_courseintro.pdf)
-* Basic Data Analysis 1	[slides]()
+* Basic Data Analysis 1	[slides](https://xinchenyu.github.io/csc380/Slides/25f380_data1.pdf)
 
 ### Important Dates:
 * Homework 1 out, due **Friday, Sep 5, 11:59pm**{: .label .label-red }
