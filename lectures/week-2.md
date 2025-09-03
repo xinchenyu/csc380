@@ -17,7 +17,7 @@ nav_order: 2
 ### Lessons:
 * Probability 1.1 and Probability 1.2
   * [Slides_short](https://xinchenyu.github.io/csc380/Slides/25f380_probability1_short.pdf)
-  * [Slides_long]()
+  * [Tuesday: Slides_long](https://xinchenyu.github.io/csc380/Slides/25f380_probability1_long_tues.pdf)
 
 
 ### Important Dates:
