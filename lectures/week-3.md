@@ -15,8 +15,9 @@ nav_order: 3
 
  
 ### Lessons:
-*  Probability 2.1 [Slides]()
-*  Probability 2.2 [Slides]()
+* Probability 2.1 and Probability 2.2:
+  * [Slides_short](https://xinchenyu.github.io/csc380/Slides/25f380_probability2_short.pdf)
+
 
 ### Important Dates:
 * Homework 2 due **Wednesday, Sep 17, 11:59pm**{: .label .label-red }
