@@ -15,6 +15,7 @@ nav_order: 4
 ### Lessons:
 * Probability 2.3 and Probability 3.1:
   * [Tuesday: Slides_long](https://xinchenyu.github.io/csc380/Slides/25f380_probability2_long_tues.pdf)
+  * [Thursday: Slides_long](https://xinchenyu.github.io/csc380/Slides/25f380_probability3_long_thurs.pdf)
 
 
 ### Important Dates:
