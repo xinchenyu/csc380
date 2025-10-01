@@ -15,8 +15,8 @@ nav_order: 6
     * Independence of random variables
 
 ### Lessons:
-*  Probability 3.4 [Slides]()
-*  Probability 4.1 [Slides]()
+* Probability 3.4 and Probability 4.1:
+  * [Tuesday: Slides_long](https://xinchenyu.github.io/csc380/Slides/25f380_probability3_long_tues.pdf)
 
 ### Important Dates:
 * Homework 3 due **Tuesday, Sep 30, 11:59pm**{: .label .label-red }
