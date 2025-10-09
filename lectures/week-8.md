@@ -1,18 +1,18 @@
 ---
 layout: module
-title: Week 8 - Midterm review & Probability 4.4 
+title: Week 8 - Midterm review 1 & 2 
 permalink: /modules/week8
 parent: Modules
 nav_order: 8
 ---
 
 ### Learning Objectives:
-* Central Limit Theorem
+* Review
 
 
 ### Lessons:
-* Midterm review [Slides]()
-* Probability 4.4 [Slides]()
+* Midterm review 1 [Slides]()
+* Midterm review 2 [Slides]()
 
 
 ### Important Dates:
@@ -20,8 +20,5 @@ nav_order: 8
 * Midterm **Tuesday, Oct 21**{: .label .label-red }
 
 
-### Readings:
-* Probability 4.4 
-    * WJ: Chapter 10 and 11
 
 
