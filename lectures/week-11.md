@@ -12,8 +12,8 @@ nav_order: 11
 
 
 ### Lessons:
-* Basic Data Analysis 3.2 [Slides]()
-* Basic Data Analysis 3.3 [Slides]()
+* Basic Data Analysis 3.1 and 3.2:
+  * [Tuesday: Slides_long](https://xinchenyu.github.io/csc380/Slides/25f380_predictive2_long_tues.pdf)
 
 ### Important Dates:
 * Homework 5 due **Tuesday, Nov 4, 11:59pm**{: .label .label-red }
