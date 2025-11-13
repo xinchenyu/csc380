@@ -23,10 +23,10 @@ nav_order: 1
 |[Oct 21 <br />  Oct 23]({{ site.baseurl }}{% link lectures/week-9.md %})  | **Midterm**{: .label .label-red }  <br /> Basic Data Analysis 2.1 | <br/>[HW5 Out]({{ site.baseurl }}{% link homeworks/hw-05.md %})      |
 |[Oct 28 <br />  Oct 30]({{ site.baseurl }}{% link lectures/week-10.md %}) | Basic Data Analysis 2.2   <br /> Basic Data Analysis 3.1 |<br/>[Project Out]({{ site.baseurl }}{% link homeworks/final-project.md %})   |
 |[Nov 4 <br />  Nov 6]({{ site.baseurl }}{% link lectures/week-11.md %}) | Basic Data Analysis 3.2 <br /> Basic Data Analysis 3.3 |<br/>[HW6 Out]({{ site.baseurl }}{% link homeworks/hw-06.md %})       |HW5 Due**Nov 4**{: .label .label-purple }
-|[Nov 13]({{ site.baseurl }}{% link lectures/week-12.md %})  |  Basic Data Analysis 4.1  |     |
-|[Nov 18 <br />  Nov 20]({{ site.baseurl }}{% link lectures/week-13.md %}) | Basic Data Analysis 4.2   <br /> Basic Statistics 1 |<br/>[HW7 Out]({{ site.baseurl }}{% link homeworks/hw-07.md %}) |HW6 Due**Nov 18**{: .label .label-purple }
+|[Nov 13]({{ site.baseurl }}{% link lectures/week-12.md %})  |  Basic Data Analysis 3.4  |     |
+|[Nov 18 <br />  Nov 20]({{ site.baseurl }}{% link lectures/week-13.md %}) | Basic Data Analysis 4   <br /> Basic Statistics 1  |<br/>[HW7 Out]({{ site.baseurl }}{% link homeworks/hw-07.md %}) |HW6 Due**Nov 18**{: .label .label-purple }
 |[Nov 25 ]({{ site.baseurl }}{% link lectures/week-14.md %}) | Basic Statistics 2 <br /> |  |
-|[Dec 2 <br />  Dec 4]({{ site.baseurl }}{% link lectures/week-15.md %})   | Basic Statistics 3.1  <br />  Basic Statistics 3.2 | | HW7 Due**Dec 4**{: .label .label-purple }
+|[Dec 2 <br />  Dec 4]({{ site.baseurl }}{% link lectures/week-15.md %})   | Basic Statistics 3  <br />  Basic Statistics 4 | | HW7 Due**Dec 4**{: .label .label-purple }
 |[Dec 9 <br />  Dec 11]({{ site.baseurl }}{% link lectures/week-16.md %})   | Basic Data Analysis 5 <br/> Final review       |                  |Project Due**Dec 11**{: .label .label-purple }
 |Dec 17   | **Final exam**{: .label .label-red }               |                          |
 
