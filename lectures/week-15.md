@@ -1,6 +1,6 @@
 ---
 layout: module
-title: Week 15 - Statistics 3.1 & Statistics 3.2
+title: Week 15 - Statistics 3 & Statistics 4
 permalink: /modules/week15
 parent: Modules
 nav_order: 15
@@ -11,8 +11,8 @@ nav_order: 15
 * Hypothesis testing
 
 ### Lessons:
-* Statistics 3.1 [Slides]()
-* Statistics 3.2 [Slides]()
+* Statistics 3 [Slides]()
+* Statistics 4 [Slides]()
 
 
 ### Important Dates:

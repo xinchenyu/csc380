@@ -1,6 +1,6 @@
 ---
 layout: module
-title: Week 13 - Basic Data Analysis 4.2 & Statistics 1
+title: Week 13 - Basic Data Analysis 4 & Statistics 1
 permalink: /modules/week13
 parent: Modules
 nav_order: 13
@@ -13,7 +13,7 @@ nav_order: 13
 
 
 ### Lessons:
-* Basic Data Analysis 4.2 [Slides]()
+* Basic Data Analysis 4 [Slides]()
 * Statistics 1 [Slides]()
 
 ### Important Dates:
