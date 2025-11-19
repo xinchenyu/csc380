@@ -13,8 +13,8 @@ nav_order: 13
 
 
 ### Lessons:
-* Basic Data Analysis 4 [Slides]()
-* Statistics 1 [Slides]()
+* Basic Data Analysis 4:
+  * [Tuesday: Slides_long_predictive4](https://xinchenyu.github.io/csc380/Slides/25f380_predictive4_long_tues.pdf)
 
 ### Important Dates:
 * Homework 7 due **Thursday, Dec 4, 11:59pm**{: .label .label-red }
