@@ -11,8 +11,7 @@ nav_order: 14
 
 
 ### Lessons:
-* Statistics 1:
-  * [Thursday: Slides_long_statistics4](https://xinchenyu.github.io/csc380/Slides/25f380_statistics1_long_thurs.pdf)
+* Statistics 2:
 
 
 ### Important Dates:

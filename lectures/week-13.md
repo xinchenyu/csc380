@@ -11,10 +11,10 @@ nav_order: 13
 * Basic setup of parameter estimation
 * Plug-in estimators
 
-
 ### Lessons:
-* Basic Data Analysis 4:
+* Basic Data Analysis 4 & Statistics 1:
   * [Tuesday: Slides_long_predictive4](https://xinchenyu.github.io/csc380/Slides/25f380_predictive4_long_tues.pdf)
+  * [Thursday: Slides_long_statistics1](https://xinchenyu.github.io/csc380/Slides/25f380_statistics1_long_thurs.pdf)
 
 ### Important Dates:
 * Homework 7 due **Thursday, Dec 4, 11:59pm**{: .label .label-red }
