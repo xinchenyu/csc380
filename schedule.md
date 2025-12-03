@@ -27,7 +27,7 @@ nav_order: 1
 |[Nov 18 <br />  Nov 20]({{ site.baseurl }}{% link lectures/week-13.md %}) | Basic Data Analysis 4   <br /> Basic Statistics 1  |<br/>[HW7 Out]({{ site.baseurl }}{% link homeworks/hw-07.md %}) |HW6 Due**Nov 18**{: .label .label-purple }
 |[Nov 25 ]({{ site.baseurl }}{% link lectures/week-14.md %}) | Basic Statistics 2 <br /> |  |
 |[Dec 2 <br />  Dec 4]({{ site.baseurl }}{% link lectures/week-15.md %})   | Basic Statistics 3  <br />  Basic Statistics 4 | | HW7 Due**Dec 4**{: .label .label-purple }
-|[Dec 9 <br />  Dec 11]({{ site.baseurl }}{% link lectures/week-16.md %})   | Basic Data Analysis 5 <br/> Final review       |                  |Project Due**Dec 11**{: .label .label-purple }
+|[Dec 9 <br />  Dec 11]({{ site.baseurl }}{% link lectures/week-16.md %})   | Final review <br/>        |                  |Project Due**Dec 11**{: .label .label-purple }
 |Dec 17   | **Final exam**{: .label .label-red }               |                          |
 
 
