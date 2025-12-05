@@ -13,6 +13,7 @@ nav_order: 15
 ### Lessons:
 * Statistics 2:
   * [Tuesday: Slides_long_statistics2](https://xinchenyu.github.io/csc380/Slides/25f380_statistics2_long_tues.pdf)
+  * [Thursday: Slides_long_statistics2](https://xinchenyu.github.io/csc380/Slides/25f380_statistics2_long_thurs.pdf)
 
 
 
