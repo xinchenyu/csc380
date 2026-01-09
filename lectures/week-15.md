@@ -1,19 +1,18 @@
 ---
 layout: module
-title: Week 15 - Statistics 2
+title: Week 15 - Statistics 2.2
 permalink: /modules/week15
 parent: Modules
 nav_order: 15
 ---
 
 ### Learning Objectives:
-* Interval estimation
 * Hypothesis testing
 
 ### Lessons:
 * Statistics 2:
-  * [Tuesday: Slides_long_statistics2](https://xinchenyu.github.io/csc380/Slides/25f380_statistics2_long_tues.pdf)
-  * [Thursday: Slides_long_statistics2](https://xinchenyu.github.io/csc380/Slides/25f380_statistics2_long_thurs.pdf)
+  * [Tuesday: ]()
+  * [Thursday: ]()
 
 
 
@@ -22,4 +21,6 @@ nav_order: 15
 * Final project due **Thursday, Dec 11, 11:59pm**{: .label .label-red }
 
 
-
+### Additional Readings:
+* Statistics 2
+    * WJ 15.1, 15.2

@@ -1,6 +1,6 @@
 ---
 layout: module
-title: Week 14 - Statistics 1
+title: Week 14 - Statistics 1.2 & 2.1
 permalink: /modules/week14
 parent: Modules
 nav_order: 14
@@ -8,17 +8,20 @@ nav_order: 14
 
 ### Learning Objectives:
 * Maximum-likelihood estimators
+* Interval estimation
 
 
 ### Lessons:
 * Statistics 1:
-  * [Tuesday: Slides_long_statistics1](https://xinchenyu.github.io/csc380/Slides/25f380_statistics1_long_tues.pdf)
+  * [Tuesday: ]()
+  * [Thursday: ]()
 
 ### Important Dates:
-* Homework 7 due **Thursday, Dec 4, 11:59pm**{: .label .label-red }
-* Final project due **Thursday, Dec 11, 11:59pm**{: .label .label-red }
+* Homework 7 due **Thursday, Apr 30, 11:59pm**{: .label .label-red }
+* Final project due **Friday, May 08, 11:59pm**{: .label .label-red }
 
 ### Additional Readings:
-* Statistics 2
-    * WJ 15.1, 15.2
+* Statistics 1
+    * WJ 12.1, 12.2, 14.1, 14.2
+
 

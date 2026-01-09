@@ -1,6 +1,6 @@
 ---
 layout: module
-title: Week 12 - Basic Data Analysis 3.4
+title: Week 12 - Basic Data Analysis 3.3 & 3.4
 permalink: /modules/week12
 parent: Modules
 nav_order: 12
@@ -14,13 +14,15 @@ nav_order: 12
 
 ### Lessons:
 * Basic Data Analysis 3.3 and 3.4:
-  * [Thursday: Slides_long_predictive3](https://xinchenyu.github.io/csc380/Slides/25f380_predictive3_long_thurs.pdf)
+  * [Tuesday: ]()
+  * [Thursday: ]()
 
 ### Important Dates:
-* Homework 6 due **Tuesday, Nov 18, 11:59pm**{: .label .label-red }
-* Final project due **Thursday, Dec 11, 11:59pm**{: .label .label-red }
+* Homework 6 due **Thursday, Apr 16, 11:59pm**{: .label .label-red }
+* Final project due **Friday, May 08, 11:59pm**{: .label .label-red }
 
 
 ### Readings:
-* Basic Data Analysis 4.1
-    * ISL 9.1, 9.2, 10.1, 10.2
+* Basic Data Analysis 3.3 
+    * ISL 4.4.2 (start from page 161)	
+

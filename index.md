@@ -18,14 +18,13 @@ now rely on data collection and analysis. For example, computer systems are now 
 rather than a deterministic computation. This course teaches students the basic principles of how to properly collect and process data sources in order to derive appropriate conclusions from them. 
 The course has main components of: basic probability, basic statistics and data wrangling, and basic data analysis using programming libraries.
 
-
 ## Logistics info
 
-Time and venue: Tuesday and Thursday 5:00-6:15pm at [ILC 130](https://classrooms.registrar.arizona.edu/70/130)
+Time and venue: Tuesday and Thursday 5:00-6:15pm at [C E Chavez Bldg 111](https://classrooms.registrar.arizona.edu/23/111)
 -  [Syllabus](https://xinchenyu.github.io/csc380/Syllabus/syllabus.pdf)
--  [Gradescope](https://www.gradescope.com/courses/1047972) 
--  [D2L course webpage](https://d2l.arizona.edu/d2l/home/1618587)
--  [Piazza link](https://piazza.com/arizona/fall2025/csc380) (access code: `wildcats`)
+-  [Gradescope](https://www.gradescope.com/courses/1217516) 
+-  [D2L course webpage](https://d2l.arizona.edu/d2l/home/1720125)
+-  [Piazza link](https://piazza.com/arizona/spring2026/csc380/home) (access code: `wildcats`)
 -  [Lecture participation self-report form]()
 
 
@@ -37,7 +36,7 @@ We will be using Piazza to make important announcements and do Q&As. Some genera
 
 ## Course staff
 * [Instructor](staff.md): Xinchen Yu
-* [Teaching assistants](staff.md): Thang Nhat Duong, Tian Tan, Haris Riaz
+* [Teaching assistants](staff.md): Eric Duong, Saiful Salim, Tian Tan
 
 Office hours:
 * Xinchen Yu: Thursday `12:00pm-2:00pm`, Gould-Simpson 829. 

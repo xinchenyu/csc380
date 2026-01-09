@@ -1,31 +1,31 @@
 ---
 layout: module
-title: Week 3 - Probability 2.1 & 2.2
+title: Week 3 - Probability 1.2 & Probability 2.1 
 permalink: /modules/week3
 parent: Modules
 nav_order: 3
 ---
 
 ### Learning Objectives:
+* Set Theory
+* Law of Total Probability
 * Conditional probability
 * Probabilistic reasoning
     * Useful tools: contingency table & probability trees
-* Bayes rule
-* Independence of events
-
  
 ### Lessons:
-* Probability 2.1 and Probability 2.2:
-  * [Slides_short](https://xinchenyu.github.io/csc380/Slides/25f380_probability2_short.pdf)
-  * [Tuesday: Slides_long](https://xinchenyu.github.io/csc380/Slides/25f380_probability2_long_tues.pdf)
-  * [Thursday: Slides_long](https://xinchenyu.github.io/csc380/Slides/25f380_probability2_long_thurs.pdf)
+* Probability 1.2 & Probability 2.1:
+  * [Tuesday: ]()
+  * [Thursday: ]()
 
 
 ### Important Dates:
-* Homework 2 due **Wednesday, Sep 17, 11:59pm**{: .label .label-red }
+* Homework 2 due **Friday, Feb 06, 11:59pm**{: .label .label-red }
 
 
 ### Readings:
+* Probability 1.2
+    * WJ: Chapter 2
 * Probability 2.1
     * WJ: Chapter 6
 * Probability 2.2

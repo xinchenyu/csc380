@@ -1,33 +1,34 @@
 ---
 layout: module
-title: Week 6 - Probability 3.4 & 4.1 
+title: Week 6 - Probability 3.3 & 3.4 
 permalink: /modules/week6
 parent: Modules
 nav_order: 6
 ---
 
 ### Learning Objectives:
+* Continuous random variables
+    *   Probability density functions (PDF)
 * Summarizing continuous random variables
     * Mean
     * Variance
-* Multivariate random variables
-    * Joint vs. marginal distribution
-    * Independence of random variables
+
 
 ### Lessons:
-* Probability 3.4 and Probability 4.1:
-  * [Tuesday: Slides_long](https://xinchenyu.github.io/csc380/Slides/25f380_probability3_long_thurs.pdf)
-  * [Thursday: Slides_long](https://xinchenyu.github.io/csc380/Slides/25f380_probability4_long_thurs.pdf)
+* Probability 3.3 & 3.4:
+  * [Tuesday: ]()
+  * [Thursday: ]()
 
 
 ### Important Dates:
-* Homework 3 due **Tuesday, Sep 30, 11:59pm**{: .label .label-red }
-* Homework 4 due **Tuesday, Oct 14, 11:59pm**{: .label .label-red }
+* Homework 3 due **Thursday, Feb 19, 11:59pm**{: .label .label-red }
+
 
 
 ### Readings:
+* Probability 3.3 
+    * WJ: Chapter 7.5
 * Probability 3.4
     * WJ: Chapter 8.4-8.6
-* Probability 4.1
-    * WL: Chapter 7.7
+
 

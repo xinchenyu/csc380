@@ -1,6 +1,6 @@
 ---
 layout: module
-title: Week 8 - Midterm review 1 & 2 
+title: Week 8 - Probability 4.3 & Midterm review 1
 permalink: /modules/week8
 parent: Modules
 nav_order: 8
@@ -11,14 +11,15 @@ nav_order: 8
 
 
 ### Lessons:
-* Midterm review 1 [Slides]()
-* Midterm review 2 [Slides]()
+  * [Tuesday: ]()
+  * [Thursday: ]()
 
 
 ### Important Dates:
-* Homework 4 due **Tuesday, Oct 14, 11:59pm**{: .label .label-red }
-* Midterm **Tuesday, Oct 21**{: .label .label-red }
+* Homework 4 due **Thursday, Mar 05, 11:59pm**{: .label .label-red }
+* Midterm **Thursday, Mar 19**{: .label .label-red }
 
-
-
+### Readings:
+* Probability 4.3
+    * WJ: Chapter 3.1 and 8.8
 
