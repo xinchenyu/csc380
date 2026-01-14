@@ -1,10 +1,10 @@
 ---
 layout: home
-title: CSC380, Fall 2025
+title: CSC380, Spring 2026
 nav_exclude: true
 seo:
 type: Course
-name: CSC380, Principle of Data Science
+name: CSC380, Principles of Data Science
 ---
 
 # {{ site.title }}: {{ site.tagline }}
@@ -25,7 +25,7 @@ Time and venue: Tuesday and Thursday 5:00-6:15pm at [C E Chavez Bldg 111](https:
 -  [Gradescope](https://www.gradescope.com/courses/1217516) 
 -  [D2L course webpage](https://d2l.arizona.edu/d2l/home/1720125)
 -  [Piazza link](https://piazza.com/arizona/spring2026/csc380/home) (access code: `wildcats`)
--  [Lecture participation self-report form]()
+-  [Lecture participation self-report form](https://docs.google.com/spreadsheets/d/1MGGZUqbsTYXoSeQ0kvRhFbMr6RSsmTk7nEJ2x5SNiHg/edit?usp=sharing)
 
 
 We will be using Piazza to make important announcements and do Q&As. Some general rules:
