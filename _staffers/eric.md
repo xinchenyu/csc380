@@ -7,6 +7,6 @@ photo: Eric.png
 meta:
   Office Hours 1: Monday 2:00pm-4:00pm (in-person)
   Office Hours 2: Thursday 2:00pm-4:00pm (in-person)
-  Room: TBD
+  Room: GS 942
 ---
 
