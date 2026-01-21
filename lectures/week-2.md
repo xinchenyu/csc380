@@ -19,7 +19,7 @@ nav_order: 2
 
 ### Lessons:
 * * Basic Data Analysis 1	& Probability 1.1 
-  * [Tuesday: ]()
+  * [Tuesday: slides](https://xinchenyu.github.io/csc380/Slides/26s380_data1.pdf)
   * [Thursday: ]()
 
 
