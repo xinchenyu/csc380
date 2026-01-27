@@ -20,8 +20,8 @@ nav_order: 2
 ### Lessons:
 * * Basic Data Analysis 1	& Probability 1.1 
   * [Tuesday: slides](https://xinchenyu.github.io/csc380/Slides/26s380_data1.pdf)
-  * [Thursday: slides-short](https://xinchenyu.github.io/csc380/Slides/26s380_probability1_short.pdf))
-  * [Thursday: slides-long](https://xinchenyu.github.io/csc380/Slides/26s380_probability1_long.pdf))
+  * [Thursday: slides-short](https://xinchenyu.github.io/csc380/Slides/26s380_probability1_short.pdf)
+  * [Thursday: slides-long](https://xinchenyu.github.io/csc380/Slides/26s380_probability1_long.pdf)
 
 
 
