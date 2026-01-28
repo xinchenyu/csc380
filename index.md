@@ -36,7 +36,7 @@ We will be using Piazza to make important announcements and do Q&As. Some genera
 
 ## Course staff
 * [Instructor](staff.md): Xinchen Yu
-* [Teaching assistants](staff.md): Eric Duong, Saiful Salim, Tian Tan
+* [Teaching assistants](staff.md): Eric Duong, Saiful Islam Salim, Tian Tan
 
 Office hours:
 * Xinchen Yu: Thursday `12:00pm-2:00pm`, Gould-Simpson 829. 
