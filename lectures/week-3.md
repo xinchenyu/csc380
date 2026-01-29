@@ -17,6 +17,8 @@ nav_order: 3
 * Probability 1.2 & Probability 2.1:
   * [Tuesday: slides-short](https://xinchenyu.github.io/csc380/Slides/26s380_probability1_short.pdf)
   * [Tuesday: slides-long](https://xinchenyu.github.io/csc380/Slides/26s380_probability1_long.pdf)
+  * [Thursday: slides-short](https://xinchenyu.github.io/csc380/Slides/26s380_probability2_short.pdf)
+  * [Thursday: slides-long]()
 
 
 ### Important Dates:
