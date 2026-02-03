@@ -14,8 +14,10 @@ nav_order: 4
 
 ### Lessons:
 * Probability 2.2 & 2.3:
-  * [Tuesday: ]()
-  * [Thursday: ]()
+  * [Tuesday: slides-short](https://xinchenyu.github.io/csc380/Slides/26s380_probability2_short.pdf)
+  * [Tuesday: slides-long]()
+  * [Thursday: slides-short]()
+  * [Thursday: slides-long]()
 
 
 ### Important Dates:
