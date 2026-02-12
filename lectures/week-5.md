@@ -18,7 +18,7 @@ nav_order: 5
 * Probability 3.1 & 3.2:
   * [Tuesday: slides-short](https://xinchenyu.github.io/csc380/Slides/26s380_probability3_short.pdf)
   * [Tuesday: slides-long](https://xinchenyu.github.io/csc380/Slides/26s380_probability3_long.pdf)
-  * [Thursday: slides-short]()
+  * [Thursday: slides-short](https://xinchenyu.github.io/csc380/Slides/26s380_probability3_short.pdf)
   * [Thursday: slides-long]()
 
 
