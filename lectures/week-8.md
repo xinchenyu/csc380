@@ -7,12 +7,14 @@ nav_order: 8
 ---
 
 ### Learning Objectives:
-* Review
+* Multivariate Random Variables
+    * Expectation, Variance, and Covariance
 
 
 ### Lessons:
-  * [Tuesday: ]()
-  * [Thursday: ]()
+* Probability 4.3:
+  * [Tuesday: slides-short](https://xinchenyu.github.io/csc380/Slides/26s380_probability4_short.pdf)
+  * [Tuesday: slides-long]()
 
 
 ### Important Dates:
