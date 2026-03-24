@@ -17,8 +17,12 @@ nav_order: 10
 
 ### Lessons:
 * Basic Data Analysis 2.1 & 2.2
-  * [Tuesday: ]()
-  * [Thursday: ]()
+  * [Tuesday: slides-short](https://xinchenyu.github.io/csc380/Slides/26s380_predictive1_long.pdf)
+  * [Tuesday: slides-long](https://xinchenyu.github.io/csc380/Slides/26s380_predictive1_long.pdf)
+  * [Thursday: slides-short]()
+  * [Thursday: slides-long]()
+
+
 
 
 ### Important Dates:
