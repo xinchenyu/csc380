@@ -19,8 +19,7 @@ nav_order: 10
 * Basic Data Analysis 2.1 & 2.2
   * [Tuesday: slides-short](https://xinchenyu.github.io/csc380/Slides/26s380_predictive1_long.pdf)
   * [Tuesday: slides-long](https://xinchenyu.github.io/csc380/Slides/26s380_predictive1_long.pdf)
-  * [Thursday: slides-short]()
-  * [Thursday: slides-long]()
+  * [Thursday: slides-long](https://xinchenyu.github.io/csc380/Slides/26s380_predictive1_long.pdf)
 
 
 
@@ -39,6 +38,8 @@ nav_order: 10
 
 ### Resources
 * [Proof: Ordinary least square](https://en.wikipedia.org/wiki/Proofs_involving_ordinary_least_squares) 
-* [Proof: MLE for linear regression](https://statproofbook.github.io/P/slr-mle.html)
+* [Why need regularization?](https://aunnnn.github.io/ml-tutorial/html/blog_content/linear_regression/linear_regression_regularized.html)
 * [How regularization works conceptually](https://explained.ai/regularization/constraints.html#sec:2.2)
+* [Leave-One-Out Cross-Validation](https://medium.com/@pacosun/one-out-all-in-leave-one-out-cross-validation-explained-409df5ff6385)
+
 
