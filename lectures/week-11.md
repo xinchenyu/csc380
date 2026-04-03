@@ -17,7 +17,7 @@ nav_order: 11
   * [Tuesday: slides-short](https://xinchenyu.github.io/csc380/Slides/26s380_predictive2_long.pdf)
   * [Tuesday: slides-long](https://xinchenyu.github.io/csc380/Slides/26s380_predictive2_long.pdf)
   * [Thursday: slides-short](https://xinchenyu.github.io/csc380/Slides/26s380_predictive2_short.pdf)
-  * [Thursday: slides-long]()
+  * [Thursday: slides-long](https://xinchenyu.github.io/csc380/Slides/26s380_predictive2_long.pdf)
 
 
 
