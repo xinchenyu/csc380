@@ -16,8 +16,8 @@ nav_order: 12
 * Basic Data Analysis 3.3 and 3.4:
   * [Tuesday: slides-short](https://xinchenyu.github.io/csc380/Slides/26s380_predictive3_long.pdf)
   * [Tuesday: slides-long](https://xinchenyu.github.io/csc380/Slides/26s380_predictive3_long.pdf)
-  * [Thursday: slides-short]()
-  * [Thursday: slides-long]()
+  * [Thursday: slides-short](https://xinchenyu.github.io/csc380/Slides/26s380_predictive4_long.pdf)
+  * [Thursday: slides-long](https://xinchenyu.github.io/csc380/Slides/26s380_predictive4_long.pdf)
 
 ### Important Dates:
 * Homework 6 due **Thursday, Apr 16, 11:59pm**{: .label .label-red }
