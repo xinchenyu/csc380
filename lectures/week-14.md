@@ -12,9 +12,11 @@ nav_order: 14
 
 
 ### Lessons:
-* Statistics 1:
-  * [Tuesday: ]()
-  * [Thursday: ]()
+* Statistics 1 & 2:
+  * [Tuesday: slides-short](https://xinchenyu.github.io/csc380/Slides/26s380_statistics1_long.pdf)
+  * [Tuesday: slides-long](https://xinchenyu.github.io/csc380/Slides/26s380_statistics1_long.pdf)
+  * [Thursday: slides-short]()
+  * [Thursday: slides-long]()
 
 ### Important Dates:
 * Homework 7 due **Thursday, Apr 30, 11:59pm**{: .label .label-red }
