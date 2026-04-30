@@ -13,8 +13,8 @@ nav_order: 15
 * Statistics 2:
   * [Tuesday: slides-short](https://xinchenyu.github.io/csc380/Slides/26s380_statistics2_long.pdf)
   * [Tuesday: slides-long](https://xinchenyu.github.io/csc380/Slides/26s380_statistics2_long.pdf)
-  * [Thursday: slides-short]()
-  * [Thursday: slides-long]()
+  * [Thursday: slides-short](https://xinchenyu.github.io/csc380/Slides/26s380_data2_long.pdf)
+  * [Thursday: slides-long](https://xinchenyu.github.io/csc380/Slides/26s380_data2_long.pdf)
 
 
 
