@@ -22,7 +22,7 @@
   },"3": {
     "doc": "Final Project",
     "title": "Final Project",
-    "content": "Information . ",
+    "content": "Information . | Go to D2L -&gt; Content -&gt; download the zip file | . ",
     "url": "/csc380/homework/finalproject",
     
     "relUrl": "/homework/finalproject"
@@ -36,97 +36,97 @@
   },"5": {
     "doc": "Homework 1",
     "title": "Homework 1",
-    "content": "Information . | Homework 1 has been posted on D2L | Go to D2L -&gt; Content -&gt; download the zip file | . ",
+    "content": "Information . | Homework 1 will be posted on D2L | Go to D2L -&gt; Content -&gt; download the zip file | . ",
     "url": "/csc380/homework/hw1",
     
     "relUrl": "/homework/hw1"
   },"6": {
     "doc": "Homework 2",
     "title": "Homework 2",
-    "content": "Information . | Homework 2 has been posted on D2L | Go to D2L -&gt; Content -&gt; download the zip file | . ",
+    "content": "Information . | Homework 2 will be posted on D2L | Go to D2L -&gt; Content -&gt; download the zip file | . ",
     "url": "/csc380/homework/hw2",
     
     "relUrl": "/homework/hw2"
   },"7": {
     "doc": "Homework 3",
     "title": "Homework 3",
-    "content": "Information . | Homework 3 has been posted on D2L | Go to D2L -&gt; Content -&gt; download the zip file | . ",
+    "content": "Information . | Homework 3 will be posted on D2L | Go to D2L -&gt; Content -&gt; download the zip file | . ",
     "url": "/csc380/homework/hw3",
     
     "relUrl": "/homework/hw3"
   },"8": {
     "doc": "Homework 4",
     "title": "Homework 4",
-    "content": "Information . | Homework 4 has been posted on D2L | Go to D2L -&gt; Content -&gt; download the zip file | . ",
+    "content": "Information . | Homework 4 will be posted on D2L | Go to D2L -&gt; Content -&gt; download the zip file | . ",
     "url": "/csc380/homework/hw4",
     
     "relUrl": "/homework/hw4"
   },"9": {
     "doc": "Homework 5",
     "title": "Homework 5",
-    "content": "Information . | Homework 5 has been posted on D2L | Go to D2L -&gt; Content -&gt; download the zip file | . ",
+    "content": "Information . | Homework 5 will be posted on D2L | Go to D2L -&gt; Content -&gt; download the zip file | . ",
     "url": "/csc380/homework/hw5",
     
     "relUrl": "/homework/hw5"
   },"10": {
     "doc": "Homework 6",
     "title": "Homework 6",
-    "content": "Information . | Homework 6 has been posted on D2L | Go to D2L -&gt; Content -&gt; download the zip file | . ",
+    "content": "Information . | Homework 6 will be posted on D2L | Go to D2L -&gt; Content -&gt; download the zip file | . ",
     "url": "/csc380/homework/hw6",
     
     "relUrl": "/homework/hw6"
   },"11": {
     "doc": "Homework 7",
     "title": "Homework 7",
-    "content": "Information . | Homework 7 has been posted on D2L | Go to D2L -&gt; Content -&gt; download the zip file | . ",
+    "content": "Information . | Homework 7 will be posted on D2L | Go to D2L -&gt; Content -&gt; download the zip file | . ",
     "url": "/csc380/homework/hw7",
     
     "relUrl": "/homework/hw7"
   },"12": {
-    "doc": "CSC380, Spring 2026",
+    "doc": "CSC380, Fall 2026",
     "title": "CSC 380: Principle of Data Science",
     "content": " ",
     "url": "/csc380/#csc-380-principle-of-data-science",
     
     "relUrl": "/#csc-380-principle-of-data-science"
   },"13": {
-    "doc": "CSC380, Spring 2026",
+    "doc": "CSC380, Fall 2026",
     "title": "Overview",
     "content": "This course introduces students to principles of data science that are necessary for computer scientists to make effective decisions in their professional careers. A number of computer science sub-disciplines now rely on data collection and analysis. For example, computer systems are now complicated enough that comparing the execution performance of two different programs becomes a statistical estimation problem rather than a deterministic computation. This course teaches students the basic principles of how to properly collect and process data sources in order to derive appropriate conclusions from them. The course has main components of: basic probability, basic statistics and data wrangling, and basic data analysis using programming libraries. ",
     "url": "/csc380/#overview",
     
     "relUrl": "/#overview"
   },"14": {
-    "doc": "CSC380, Spring 2026",
+    "doc": "CSC380, Fall 2026",
     "title": "Logistics info",
-    "content": "Time and venue: Tuesday and Thursday 5:00-6:15pm at C E Chavez Bldg 111 . | Syllabus | Gradescope | D2L course webpage | Piazza link (access code: wildcats) | Lecture participation self-report form | . We will be using Piazza to make important announcements and do Q&amp;As. Some general rules: . | If you have technical questions, try posing your questions as general as possible, to promote discussions among the class. | If you have private questions, generally please make a private Piazza post instead of sending an email - This will help facilitate our processings of your requests significantly. | . ",
+    "content": "Time and venue: Tuesday and Thursday 5:00-6:15pm at M Pacheco ILC 130 . | Syllabus | Gradescope | D2L course webpage | Piazza link (access code: wildcats) | Lecture participation self-report form | . We will be using Piazza to make important announcements and do Q&amp;As. Some general rules: . | If you have technical questions, try posing your questions as general as possible, to promote discussions among the class. | If you have private questions, generally please make a private Piazza post instead of sending an email - This will help facilitate our processings of your requests significantly. | . ",
     "url": "/csc380/#logistics-info",
     
     "relUrl": "/#logistics-info"
   },"15": {
-    "doc": "CSC380, Spring 2026",
+    "doc": "CSC380, Fall 2026",
     "title": "Course staff",
-    "content": ". | Instructor: Xinchen Yu | Teaching assistants: Eric Duong, Saiful Salim, Tian Tan | . Office hours: . | Xinchen Yu: Thursday 12:00pm-2:00pm, Gould-Simpson 829. | You are welcome to drop in at any time during this period. However, students in this course will be given priority from 1:00pm-2:00pm. If you arrive outside of this priority window, please understand that wait times may vary depending on whether students from another course are being helped. | . | . ",
+    "content": ". | Instructor: Xinchen Yu, Naren Doraiswamy | Teaching assistants: Shuoshan Lan, Muhammad Bilal | . Office hours: . | Xinchen Yu: Thursday 12:00pm-2:00pm, Gould-Simpson 829. | You are welcome to drop in at any time during this period. However, students in this course will be given priority from 1:00pm-2:00pm. If you arrive outside of this priority window, please understand that wait times may vary depending on whether students from another course are being helped. | . | . ",
     "url": "/csc380/#course-staff",
     
     "relUrl": "/#course-staff"
   },"16": {
-    "doc": "CSC380, Spring 2026",
+    "doc": "CSC380, Fall 2026",
     "title": "Textbook",
     "content": "There is no single designated textbook for this course. Much of the course materials and assigned readings will be based on the following books: . | WJ: Watkins, J., “An Introduction to the Science of Statistics: From Theory to Implementation” . | WL: Wasserman, L. “All of Statistics: A Concise Course in Statistical Inference.” Springer, 2004 (accessible online via UA library) . | ISL: James, G., Witten, D., Hastie, T., &amp; Tibshirani, R. An introduction to statistical learning with Applications in Python. New York: Springer . | Sam Lau, Joey Gonzalez, Deb Nolan, “Learning Data Science”, O’Reilly, 2023 . | Steven S. Skiena, ”The Data Science Design Manual”, Springer, 2017 . | . ",
     "url": "/csc380/#textbook",
     
     "relUrl": "/#textbook"
   },"17": {
-    "doc": "CSC380, Spring 2026",
+    "doc": "CSC380, Fall 2026",
     "title": "Other useful resources",
     "content": ". | You should have no difficulty in Python programming. | Notes for probability review and linear algebra review from Stanford’s CS 229 course. | The matrix cookbook, The Probability and Statistics Cookbook, and Calculus cheatsheet (recommended by Prof. Kwang-Sung Jun). | You may find using LaTeX helpful in writing homeworks or reports. Some useful LaTeX resources: Learn LaTeX in 30 minutes by Overleaf; Introduction to LATEX by MIT Research Science Institute . | Hal Daume III’s book A Course in Machine Learning . | . ",
     "url": "/csc380/#other-useful-resources",
     
     "relUrl": "/#other-useful-resources"
   },"18": {
-    "doc": "CSC380, Spring 2026",
-    "title": "CSC380, Spring 2026",
+    "doc": "CSC380, Fall 2026",
+    "title": "CSC380, Fall 2026",
     "content": " ",
     "url": "/csc380/",
     
@@ -141,7 +141,7 @@
   },"20": {
     "doc": "Calendar",
     "title": "Tentative schedule",
-    "content": "Note: All assignments due at 11:59 pm. | Dates | Topics | Assignments | Due Dates | . | Jan 15 | Course Overview |   |   | . | Jan 20 Jan 22 | Basic Data Analysis 1 Probability 1.1 | HW1 Out |   | . | Jan 27 Jan 29 | Probability 1.2 Probability 2.1 | HW2 Out | HW1 DueJan 28 | . | Feb 03 Feb 05 | Probability 2.2 Probability 2.3 |   | HW2 DueFeb 06 | . | Feb 10 Feb 12 | Probability 3.1 Probability 3.2 | HW3 Out |   | . | Feb 17 Feb 19 | Probability 3.3 Probability 3.4 |   | HW3 DueFeb 19 | . | Feb 24 Feb 26 | Probability 4.1 Probability 4.2 | HW4 Out |   | . | Mar 03 Mar 05 | Probability 4.3 Midterm review 1 |   | HW4 DueMar 05 | . | Mar 17 Mar 19 | Midterm review 2 Midterm |   |   | . | Mar 24 Mar 26 | Basic Data Analysis 2.1 Basic Data Analysis 2.2 | HW5 Out |   | . | Mar 31 Apr 02 | Basic Data Analysis 3.1 Basic Data Analysis 3.2 | Project Out | HW5 DueApr 02 | . | Apr 07 Apr 09 | Basic Data Analysis 3.3 Basic Data Analysis 3.4 | HW6 Out |   | . | Apr 14 Apr 16 | Basic Data Analysis 4 Basic Statistics 1.1 | HW7 Out | HW6 DueApr 16 | . | Apr 21 Apr 23 | Basic Statistics 1.2 Basic Statistics 2.1 | |   | . | Apr 28 Apr 30 | Basic Statistics 2.2 Basic Data Analysis 5 |   | HW7 DueApr 30 | . | May 05 | Final review |   | Project DueMay 08 | . | May 13 | Final exam |   |   | . ",
+    "content": "Note: All assignments due at 11:59 pm. | Dates | Topics | Assignments | Due Dates | . | Aug 25 Aug 27 | Course Overview Basic Data Analysis 1 | HW1 Out |   | . | Sep 01 Sep 03 | Probability 1.1 Probability 1.2 |   | HW1 DueSep 04 | . | Sep 08 Sep 10 | Probability 2.1 Probability 2.2 | HW2 Out |   | . | Sep 15 Sep 17 | Probability 2.3 Probability 3.1 | HW3 Out | HW2 DueSep 16 | . | Sep 22 Sep 24 | Probability 3.2 Probability 3.3 |   |   | . | Sep 29 Oct 01 | Probability 3.4 Probability 4.1 | HW4 Out | HW3 DueSep 29 | . | Oct 06 Oct 08 | Probability 4.2 Probability 4.3 |   |   | . | Oct 13 Oct 15 | Midterm review 1 Midterm review 2 |   | HW4 DueOct 13 | . | Oct 20 Oct 22 | Midterm Basic Data Analysis 2.1 | HW5 Out |   | . | Oct 27 Oct 29 | Basic Data Analysis 2.2 Basic Data Analysis 3.1 | Project Out |   | . | Nov 03 Nov 05 | Basic Data Analysis 3.2 Basic Data Analysis 3.3 | HW6 Out | HW5 DueNov 03 | . | Nov 10 Nov 12 | Basic Data Analysis 3.4 Basic Data Analysis 4 |   |   | . | Nov 17 Nov 19 | Basic Statistics 1.1 Basic Statistics 1.2 | HW7 Out | HW6 DueNov 17 | . | Nov 24 Nov 26 | Basic Statistics 2.1 No Class |   |   | . | Dec 01 Dec 03 | Basic Statistics 2.2 Basic Data Analysis 5 |   | HW7 DueDec 03 | . | Dec 08 | Final review |   | Project DueDec 11 | . | Dec 16 | Final exam |   |   | . ",
     "url": "/csc380/calendar/#tentative-schedule",
     
     "relUrl": "/calendar/#tentative-schedule"
@@ -162,14 +162,14 @@
   },"23": {
     "doc": "Staff",
     "title": "Instructor",
-    "content": "Xinchen Yu . xinchenyu@arizona.edu . Office Hours Thursday 12:00pm-2:00pm (priority window 1:00-2:00pm) . Room Gould-Simpson 829 . ",
+    "content": "Xinchen Yu . xinchenyu@arizona.edu . Office Hours Thursday 12:00pm-2:00pm (in-person, priority window 1:00-2:00pm) . Room Gould-Simpson 829 . ",
     "url": "/csc380/staff/#instructor",
     
     "relUrl": "/staff/#instructor"
   },"24": {
     "doc": "Staff",
     "title": "Teaching Assistants",
-    "content": "Eric Duong . eduong@arizona.edu . Office Hours 1 Tuesday 2:00pm-4:00pm . Office Hours 2 Wednesday 2:00pm-4:00pm . Room TBD . Saiful Salim . saifulislam@arizona.edu . Office Hours 1 Wednesday 12:00pm-2:00pm . Office Hours 2 Thursday 2:00pm-4:00pm . Room TBD . Tian Tan . tiantan@arizona.edu . Office Hours 1 Tuesday 11:30am-1:30pm . Office Hours 2 Wednesday 9:00am-11:00am . Room TBD . ",
+    "content": "Eric Duong . eduong@arizona.edu . Office Hours 1 Monday 2:00pm-4:00pm (in-person) . Office Hours 2 Thursday 2:00pm-4:00pm (in-person) . Room GS 942 . Saiful Islam Salim . saifulislam@arizona.edu . Office Hours 1 Monday 10:00am-12:00pm (online, Zoom) . Office Hours 2 Wednesday 11:00am-1:00pm (in-person) . Room GS 942 . Tian Tan . tiantan@arizona.edu . Office Hours 1 Tuesday 11:30am-1:30pm (in-person) . Office Hours 2 Wednesday 9:00am-11:00am (in-person) . Room GS 942 . ",
     "url": "/csc380/staff/#teaching-assistants",
     
     "relUrl": "/staff/#teaching-assistants"
@@ -181,114 +181,114 @@
     
     "relUrl": "/staff/"
   },"26": {
-    "doc": "Week 1 - Course Overview",
-    "title": "Week 1 - Course Overview",
-    "content": "Learning Objectives: . | Course overview | . Lessons: . | Thursday: | . Readings: . | Class Syllabus | What is Data Science? | . ",
+    "doc": "Week 1 - Course Overview & Basic Data Analysis 1",
+    "title": "Week 1 - Course Overview & Basic Data Analysis 1",
+    "content": "Learning Objectives: . | Course overview | Basic Data Analysis 1 . | Pandas | Descriptive statistics | Data visualization | . | . Lessons: . | Tuesday: slides | Thursday: slides | . Important Dates: . | Homework 1 out, due Friday, Sep 04, 11:59pm | . Readings: . | Class Syllabus | What is Data Science? | . ",
     "url": "/csc380/modules/week1",
     
     "relUrl": "/modules/week1"
   },"27": {
-    "doc": "Week 10 - Basic Data Analysis 2.1 & 2.2",
-    "title": "Week 10 - Basic Data Analysis 2.1 & 2.2",
-    "content": "Learning Objectives: . | Intro to machine learning | Linear regression | Overfitting and underfitting | Regularization in regression | Feature Selection | . Lessons: . | Basic Data Analysis 2.1 &amp; 2.2 . | Tuesday: | Thursday: | . | . Important Dates: . | Homework 5 due Thursday, Apr 02, 11:59pm | . Readings: . | Basic Data Analysis 2.1 . | WJ Chap 3.2 | . | Basic Data Analysis 2.2 . | ISL 6.1, 6.2 | . | . Resources . | Proof: Ordinary least square | Proof: MLE for linear regression | How regularization works conceptually | . ",
+    "doc": "Week 10 - Basic Data Analysis 2.2 & 3.1",
+    "title": "Week 10 - Basic Data Analysis 2.2 & 3.1",
+    "content": "Learning Objectives: . | Overfitting and underfitting | Regularization in regression | Feature Selection | . Lessons: . | Tuesday: slides | Thursday: slides | . Important Dates: . | Homework 5 due Tuesday, Nov 03, 11:59pm | . Readings: . | Basic Data Analysis 2.2 . | ISL 6.1, 6.2 | . | Basic Data Analysis 3.1 . | ISL 2.2 | . | . Resources . | Why need regularization? | How regularization works conceptually | Leave-One-Out Cross-Validation | . ",
     "url": "/csc380/modules/week10",
     
     "relUrl": "/modules/week10"
   },"28": {
-    "doc": "Week 11 - Basic Data Analysis 3.1 & 3.2",
-    "title": "Week 11 - Basic Data Analysis 3.1 & 3.2",
-    "content": "Learning Objectives: . | Nearest neighbor Classification | Logistic regression | Classification: other considerations | . Lessons: . | Basic Data Analysis 3.1 and 3.2: . | Tuesday: | Thursday: | . | . Important Dates: . | Homework 5 due Thursday, Apr 02, 11:59pm | . Readings: . | Basic Data Analysis 3.1 . | ISL 2.2 | . | Basic Data Analysis 3.2 . | ISL 4.3 | . | . Resources: . | Likelihood function for logistic regression | . ",
+    "doc": "Week 11 - Basic Data Analysis 3.2 & 3.3",
+    "title": "Week 11 - Basic Data Analysis 3.2 & 3.3",
+    "content": "Learning Objectives: . | Nearest neighbor Classification | Logistic regression | Classification: other considerations | Basis Functions | . Lessons: . | Tuesday: slides | Thursday: slides | . Important Dates: . | Homework 5 due Tuesday, Nov 03, 11:59pm | Homework 6 due Tuesday, Nov 17, 11:59pm | Final project due Friday, Dec 11, 11:59pm | . Readings: . | Basic Data Analysis 3.2 . | ISL 4.3 | . | Basic Data Analysis 3.3 . | ISL 4.4.2 (start from page 161) | . | . Resources: . | Likelihood function for logistic regression | . ",
     "url": "/csc380/modules/week11",
     
     "relUrl": "/modules/week11"
   },"29": {
-    "doc": "Week 12 - Basic Data Analysis 3.3 & 3.4",
-    "title": "Week 12 - Basic Data Analysis 3.3 & 3.4",
-    "content": "Learning Objectives: . | Basis Functions | Support Vector Machine | . Lessons: . | Basic Data Analysis 3.3 and 3.4: . | Tuesday: | Thursday: | . | . Important Dates: . | Homework 6 due Thursday, Apr 16, 11:59pm | Final project due Friday, May 08, 11:59pm | . Readings: . | Basic Data Analysis 3.3 . | ISL 4.4.2 (start from page 161) | . | . ",
+    "doc": "Week 12 - Basic Data Analysis 3.4 & 4",
+    "title": "Week 12 - Basic Data Analysis 3.4 & 4",
+    "content": "Learning Objectives: . | Support Vector Machine | Neural Networks | . Lessons: . | Tuesday: slides | Thursday: slides | . Important Dates: . | Homework 6 due Tuesday, Nov 17, 11:59pm | Final project due Friday, Dec 11, 11:59pm | . Readings: . | Basic Data Analysis 4 . | ISL 9.1, 9.2, 10.1, 10.2 | ISL 10.7, 12.1, 12.4.1 | . | . ",
     "url": "/csc380/modules/week12",
     
     "relUrl": "/modules/week12"
   },"30": {
-    "doc": "Week 13 - Basic Data Analysis 4 & Statistics 1.1",
-    "title": "Week 13 - Basic Data Analysis 4 & Statistics 1.1",
-    "content": "Learning Objectives: . | Neural Networks | Basic setup of parameter estimation | Plug-in estimators | . Lessons: . | Basic Data Analysis 4 &amp; Statistics 1.1: . | Tuesday: | Thursday: | . | . Important Dates: . | Homework 7 due Thursday, Apr 30, 11:59pm | Final project due Friday, May 08, 11:59pm | . Additional Readings: . | Basic Data Analysis 4 . | ISL 9.1, 9.2, 10.1, 10.2 | ISL 10.7, 12.1, 12.4.1 | . | . Resources . | Play with multilayer perceptron | . ",
+    "doc": "Week 13 - Statistics 1.1 & Statistics 1.2",
+    "title": "Week 13 - Statistics 1.1 & Statistics 1.2",
+    "content": "Learning Objectives: . | Basic setup of parameter estimation | Plug-in estimators | Maximum-likelihood estimators | . Lessons: . | Tuesday: slides | Thursday: slides | . Important Dates: . | Homework 7 due Thursday, Dec 03, 11:59pm | Final project due Friday, Dec 11, 11:59pm | . Additional Readings: . | Statistics 1 . | WJ 12.1, 12.2, 14.1, 14.2 | . | . Resources . | Play with multilayer perceptron | . ",
     "url": "/csc380/modules/week13",
     
     "relUrl": "/modules/week13"
   },"31": {
-    "doc": "Week 14 - Statistics 1.2 & 2.1",
-    "title": "Week 14 - Statistics 1.2 & 2.1",
-    "content": "Learning Objectives: . | Maximum-likelihood estimators | Interval estimation | . Lessons: . | Statistics 1: . | Tuesday: | Thursday: | . | . Important Dates: . | Homework 7 due Thursday, Apr 30, 11:59pm | Final project due Friday, May 08, 11:59pm | . Additional Readings: . | Statistics 1 . | WJ 12.1, 12.2, 14.1, 14.2 | . | . ",
+    "doc": "Week 14 - Statistics 2.1",
+    "title": "Week 14 - Statistics 2.1",
+    "content": "Learning Objectives: . | Interval estimation | . Lessons: . | Tuesday: slides | . Important Dates: . | Homework 7 due Thursday, Dec 03, 11:59pm | Final project due Friday, Dec 11, 11:59pm | . Additional Readings: . | Statistics 2 . | WJ 15.1, 15.2 | . | . ",
     "url": "/csc380/modules/week14",
     
     "relUrl": "/modules/week14"
   },"32": {
-    "doc": "Week 15 - Statistics 2.2",
-    "title": "Week 15 - Statistics 2.2",
-    "content": "Learning Objectives: . | Hypothesis testing | . Lessons: . | Statistics 2: . | Tuesday: | Thursday: | . | . Important Dates: . | Homework 7 due Thursday, Dec 4, 11:59pm | Final project due Thursday, Dec 11, 11:59pm | . Additional Readings: . | Statistics 2 . | WJ 15.1, 15.2 | . | . ",
+    "doc": "Week 15 - Statistics 2.2 & Basic Data Analysis 5",
+    "title": "Week 15 - Statistics 2.2 & Basic Data Analysis 5",
+    "content": "Learning Objectives: . | Hypothesis testing | Data sampling | . Lessons: . | Tuesday: slides | Thursday: slides | . Important Dates: . | Homework 7 due Thursday, Dec 03, 11:59pm | Final project due Thursday, Dec 11, 11:59pm | . Additional Readings: . | Statistics 2 . | WJ 15.1, 15.2 | . | . ",
     "url": "/csc380/modules/week15",
     
     "relUrl": "/modules/week15"
   },"33": {
     "doc": "Week 16 - Final Review",
     "title": "Week 16 - Final Review",
-    "content": "Learning Objectives: . | Final Review | . Important Dates: . | Final project due Thursday, Dec 11, 11:59pm | Final Exam Wednesday, May 13, 6:00-8:00pm | . ",
+    "content": "Learning Objectives: . | Final Review | . Important Dates: . | Final project due Thursday, Dec 03, 11:59pm | Final Exam Wednesday, Dec 11, 6:00-8:00pm | . ",
     "url": "/csc380/modules/week16",
     
     "relUrl": "/modules/week16"
   },"34": {
-    "doc": "Week 2 - Basic Data Analysis 1\t& Probability 1.1",
-    "title": "Week 2 - Basic Data Analysis 1\t& Probability 1.1",
-    "content": "Learning Objectives: . | Basic Data Analysis 1 . | Pandas | Descriptive statistics | Data visualization | . | What is probability? | Events | Calculating probabilities | . Lessons: . | . | Basic Data Analysis 1 &amp; Probability 1.1 | Tuesday: | Thursday: | . | . Important Dates: . | Homework 1 out, due Wednesday, Jan 28, 11:59pm | . Readings: . | Probability 1.1 . | WL: Chapter 1 | . | . ",
+    "doc": "Week 2 - Probability 1.1 & Probability 1.2",
+    "title": "Week 2 - Probability 1.1 & Probability 1.2",
+    "content": "Learning Objectives: . | What is probability? | Events | Calculating probabilities | Set Theory | Law of Total Probability | . Lessons: . | Tuesday: slides | Thursday: slides | . Important Dates: . | Homework 1 out, due Friday, Sep 04, 11:59pm | . Readings: . | Probability 1.1 . | WL: Chapter 1 | . | Probability 1.2 . | WJ: Chapter 2 | . | . ",
     "url": "/csc380/modules/week2",
     
     "relUrl": "/modules/week2"
   },"35": {
-    "doc": "Week 3 - Probability 1.2 & Probability 2.1",
-    "title": "Week 3 - Probability 1.2 & Probability 2.1",
-    "content": "Learning Objectives: . | Set Theory | Law of Total Probability | Conditional probability | Probabilistic reasoning . | Useful tools: contingency table &amp; probability trees | . | . Lessons: . | Probability 1.2 &amp; Probability 2.1: . | Tuesday: | Thursday: | . | . Important Dates: . | Homework 2 due Friday, Feb 06, 11:59pm | . Readings: . | Probability 1.2 . | WJ: Chapter 2 | . | Probability 2.1 . | WJ: Chapter 6 | . | Probability 2.2 . | Peter Donnelly: How stats fool juries | . | . ",
+    "doc": "Week 3 - Probability 2.1 & Probability 2.2",
+    "title": "Week 3 - Probability 2.1 & Probability 2.2",
+    "content": "Learning Objectives: . | Conditional probability | Probabilistic reasoning . | Useful tools: contingency table &amp; probability trees | . | Bayes rule | . Lessons: . | Tuesday: slides | Thursday: slides | . Important Dates: . | Homework 2 due Wednesday, Sep 16, 11:59pm | . Readings: . | Probability 2.1 . | WJ: Chapter 6 | . | Probability 2.2 . | Peter Donnelly: How stats fool juries | . | . ",
     "url": "/csc380/modules/week3",
     
     "relUrl": "/modules/week3"
   },"36": {
-    "doc": "Week 4 - Probability 2.2 & 2.3",
-    "title": "Week 4 - Probability 2.2 & 2.3",
-    "content": "Learning Objectives: . | Bayes rule | Independence of events | Probability and combinatorics | . Lessons: . | Probability 2.2 &amp; 2.3: . | Tuesday: | Thursday: | . | . Important Dates: . | Homework 2 due Friday, Feb 06, 11:59pm | . Readings: . | Probability 2.3 . | WJ: Chapter 7 | . | . ",
+    "doc": "Week 4 - Probability 2.3 & Probability 3.1",
+    "title": "Week 4 - Probability 2.3 & Probability 3.1",
+    "content": "Learning Objectives: . | Independence of events | Probability and combinatorics | Random variables | . Lessons: . | Tuesday: slides | Thursday: slides | . Important Dates: . | Homework 2 due Wednesday, Sep 16, 11:59pm | Homework 3 due Tuesday, Sep 29, 11:59pm | . Readings: . | Probability 2.3 . | WJ: Chapter 7 | . | Probability 3.1 . | WJ: Chapter 8 | . | An Interactive Fagan Nomogram | . ",
     "url": "/csc380/modules/week4",
     
     "relUrl": "/modules/week4"
   },"37": {
-    "doc": "Week 5 - Probability 3.1 & 3.2",
-    "title": "Week 5 - Probability 3.1 & 3.2",
-    "content": "Learning Objectives: . | Random variables | Distribution functions | Discrete random variables . | Probability mass functions (PMF) | . | . Lessons: . | Probability 3.1 &amp; 3.2: . | Tuesday: | Thursday: | . | . Important Dates: . | Homework 3 due Thursday, Feb 19, 11:59pm | . Readings: . | Probability 3.1 . | WJ: Chapter 8 | . | An Interactive Fagan Nomogram | Probability 3.2 . | WJ: Chapter 9 | . | . Resources: . | Calculus cheet sheet | . ",
+    "doc": "Week 5 - Probability 3.2 & Probability 3.3",
+    "title": "Week 5 - Probability 3.2 & Probability 3.3",
+    "content": "Learning Objectives: . | Distribution functions | Discrete random variables . | Probability mass functions (PMF) | . | Continuous random variables . | Probability density functions (PDF) | . | . Lessons: . | Tuesday: slides | Thursday: slides | . Important Dates: . | Homework 3 due Tuesday, Sep 29, 11:59pm | . Readings: . | An Interactive Fagan Nomogram | Probability 3.2 . | WJ: Chapter 9 | . | Probability 3.3 . | WJ: Chapter 7.5 | . | . Resources: . | Calculus cheet sheet | . ",
     "url": "/csc380/modules/week5",
     
     "relUrl": "/modules/week5"
   },"38": {
-    "doc": "Week 6 - Probability 3.3 & 3.4",
-    "title": "Week 6 - Probability 3.3 & 3.4",
-    "content": "Learning Objectives: . | Continuous random variables . | Probability density functions (PDF) | . | Summarizing continuous random variables . | Mean | Variance | . | . Lessons: . | Probability 3.3 &amp; 3.4: . | Tuesday: | Thursday: | . | . Important Dates: . | Homework 3 due Thursday, Feb 19, 11:59pm | . Readings: . | Probability 3.3 . | WJ: Chapter 7.5 | . | Probability 3.4 . | WJ: Chapter 8.4-8.6 | . | . ",
+    "doc": "Week 6 - Probability 3.4 & Probability 4.1",
+    "title": "Week 6 - Probability 3.4 & Probability 4.1",
+    "content": "Learning Objectives: . | Summarizing continuous random variables . | Mean | Variance | . | Multivariate random variables . | Joint vs. marginal distribution | Independence of random variables | . | . Lessons: . | Tuesday: slides | Thursday: slides | . Important Dates: . | Homework 4 due Tuesday, Oct 13, 11:59pm | . Readings: . | Probability 3.4 . | WJ: Chapter 8.4-8.6 | . | Probability 4.1 . | WL: Chapter 7.7 | . | . ",
     "url": "/csc380/modules/week6",
     
     "relUrl": "/modules/week6"
   },"39": {
-    "doc": "Week 7 - Probability 4.1 & 4.2",
-    "title": "Week 7 - Probability 4.1 & 4.2",
-    "content": "Learning Objectives: . | Multivariate random variables . | Joint vs. marginal distribution | Independence of random variables | . | Covariance | Correlation | . Lessons: . | Probability 4.1 &amp; 4.2: . | Tuesday: | Thursday: | . | . Important Dates: . | Homework 4 due Thursday, Mar 05, 11:59pm | Midterm Thursday, Mar 19 | . Readings: . | Probability 4.1 . | WL: Chapter 7.7 | . | Probability 4.2 . | WJ: Chapter 7.7, 7.8, 8.7 | . | . ",
+    "doc": "Week 7 - Probability 4.2 & 4.3",
+    "title": "Week 7 - Probability 4.2 & 4.3",
+    "content": "Learning Objectives: . | Covariance | Correlation | Multivariate Random Variables . | Expectation, Variance, and Covariance | . | . Lessons: . | Tuesday: slides | Thursday: slides | . Important Dates: . | Homework 4 due Tuesday, Oct 13, 11:59pm | Midterm Tuesday, Oct 20 | . Readings: . | Probability 4.2 . | WJ: Chapter 7.7, 7.8, 8.7 | . | Probability 4.3 . | WJ: Chapter 3.1 and 8.8 | . | . ",
     "url": "/csc380/modules/week7",
     
     "relUrl": "/modules/week7"
   },"40": {
-    "doc": "Week 8 - Probability 4.3 & Midterm review 1",
-    "title": "Week 8 - Probability 4.3 & Midterm review 1",
-    "content": "Learning Objectives: . | Review | . Lessons: . | Tuesday: | Thursday: | . Important Dates: . | Homework 4 due Thursday, Mar 05, 11:59pm | Midterm Thursday, Mar 19 | . Readings: . | Probability 4.3 . | WJ: Chapter 3.1 and 8.8 | . | . ",
+    "doc": "Week 8 - Midterm review",
+    "title": "Week 8 - Midterm review",
+    "content": "Lessons: . | Tuesday: slides | Thursday: slides | . Important Dates: . | Homework 4 due Tuesday, Oct 13, 11:59pm | Midterm Tuesday, Oct 20 | . ",
     "url": "/csc380/modules/week8",
     
     "relUrl": "/modules/week8"
   },"41": {
-    "doc": "Week 9 - Midterm review 2 & Midterm",
-    "title": "Week 9 - Midterm review 2 & Midterm",
-    "content": "Learning Objectives: . | Intro to machine learning | Linear regression | . ",
+    "doc": "Week 9 -  Midterm & Basic Data Analysis 2.1",
+    "title": "Week 9 -  Midterm & Basic Data Analysis 2.1",
+    "content": "Learning Objectives: . | Intro to machine learning | Linear regression | . Lessons: . | Tuesday: slides | Thursday: slides | . Important Dates: . | Homework 5 due Tuesday, Nov 03, 11:59pm | . Readings: . | Basic Data Analysis 2.1 . | WJ Chap 3.2 | . | . Resources . | Proof: Ordinary least square | . ",
     "url": "/csc380/modules/week9",
     
     "relUrl": "/modules/week9"

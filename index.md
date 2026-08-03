@@ -1,6 +1,6 @@
 ---
 layout: home
-title: CSC380, Spring 2026
+title: CSC380, Fall 2026
 nav_exclude: true
 seo:
 type: Course
@@ -20,12 +20,12 @@ The course has main components of: basic probability, basic statistics and data 
 
 ## Logistics info
 
-Time and venue: Tuesday and Thursday 5:00-6:15pm at [C E Chavez Bldg 111](https://classrooms.registrar.arizona.edu/23/111)
+Time and venue: Tuesday and Thursday 5:00-6:15pm at [M Pacheco ILC 130](https://classrooms.registrar.arizona.edu/70/130)
 -  [Syllabus](https://xinchenyu.github.io/csc380/Syllabus/syllabus.pdf)
--  [Gradescope](https://www.gradescope.com/courses/1217516) 
--  [D2L course webpage](https://d2l.arizona.edu/d2l/home/1720125)
--  [Piazza link](https://piazza.com/arizona/spring2026/csc380/home) (access code: `wildcats`)
--  [Lecture participation self-report form](https://docs.google.com/spreadsheets/d/1MGGZUqbsTYXoSeQ0kvRhFbMr6RSsmTk7nEJ2x5SNiHg/edit?usp=sharing)
+-  [Gradescope](https://www.gradescope.com/courses/1343428) 
+-  [D2L course webpage](https://d2l.arizona.edu/d2l/home/1795130)
+-  [Piazza link](https://piazza.com/arizona/fall2026/csc380/home) (access code: `wildcats`)
+-  [Lecture participation self-report form]()
 
 
 We will be using Piazza to make important announcements and do Q&As. Some general rules:
@@ -35,8 +35,8 @@ We will be using Piazza to make important announcements and do Q&As. Some genera
   This will help facilitate our processings of your requests significantly.
 
 ## Course staff
-* [Instructor](staff.md): Xinchen Yu
-* [Teaching assistants](staff.md): Eric Duong, Saiful Islam Salim, Tian Tan
+* [Instructor](staff.md): Xinchen Yu, Naren Doraiswamy
+* [Teaching assistants](staff.md): Shuoshan Lan, Muhammad Bilal
 
 Office hours:
 * Xinchen Yu: Thursday `12:00pm-2:00pm`, Gould-Simpson 829. 

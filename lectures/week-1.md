@@ -1,6 +1,6 @@
 ---
 layout: module
-title: Week 1 - Course Overview 
+title: Week 1 - Course Overview & Basic Data Analysis 1
 permalink: /modules/week1
 parent: Modules
 nav_order: 1
@@ -8,10 +8,19 @@ nav_order: 1
 
 ### Learning Objectives:
 * Course overview
+* Basic Data Analysis 1	
+    *   Pandas
+    *   Descriptive statistics
+    *   Data visualization
 
 
 ### Lessons:
-  * [Thursday: course introduction](https://xinchenyu.github.io/csc380/Slides/26s380_courseintro.pdf)
+  * [Tuesday: slides]()
+  * [Thursday: slides]()
+
+
+### Important Dates:
+* Homework 1 out, due **Friday, Sep 04, 11:59pm**{: .label .label-red }
 
 
 ### Readings:

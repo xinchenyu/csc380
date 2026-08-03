@@ -11,8 +11,8 @@ nav_order: 16
 
 
 ### Important Dates:
-* Final project due **Thursday, Dec 11, 11:59pm**{: .label .label-red }
-* Final Exam **Wednesday, May 13, 6:00-8:00pm**{: .label .label-red }
+* Final project due **Thursday, Dec 03, 11:59pm**{: .label .label-red }
+* Final Exam **Wednesday, Dec 11, 6:00-8:00pm**{: .label .label-red }
 
 
 

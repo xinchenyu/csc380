@@ -1,30 +1,28 @@
 ---
 layout: module
-title: Week 12 - Basic Data Analysis 3.3 & 3.4
+title: Week 12 - Basic Data Analysis 3.4 & 4
 permalink: /modules/week12
 parent: Modules
 nav_order: 12
 ---
 
 ### Learning Objectives:
-* Basis Functions
 * Support Vector Machine
-
+* Neural Networks
 
 
 ### Lessons:
-* Basic Data Analysis 3.3 and 3.4:
-  * [Tuesday: slides-short](https://xinchenyu.github.io/csc380/Slides/26s380_predictive3_long.pdf)
-  * [Tuesday: slides-long](https://xinchenyu.github.io/csc380/Slides/26s380_predictive3_long.pdf)
-  * [Thursday: slides-short](https://xinchenyu.github.io/csc380/Slides/26s380_predictive4_long.pdf)
-  * [Thursday: slides-long](https://xinchenyu.github.io/csc380/Slides/26s380_predictive4_long.pdf)
+  * [Tuesday: slides]()
+  * [Thursday: slides]()
+
 
 ### Important Dates:
-* Homework 6 due **Thursday, Apr 16, 11:59pm**{: .label .label-red }
-* Final project due **Friday, May 08, 11:59pm**{: .label .label-red }
+* Homework 6 due **Tuesday, Nov 17, 11:59pm**{: .label .label-red }
+* Final project due **Friday, Dec 11, 11:59pm**{: .label .label-red }
 
 
 ### Readings:
-* Basic Data Analysis 3.3 
-    * ISL 4.4.2 (start from page 161)	
+* Basic Data Analysis 4
+    * ISL 9.1, 9.2, 10.1, 10.2
+    * ISL 10.7, 12.1, 12.4.1
 
