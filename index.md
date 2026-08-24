@@ -25,7 +25,7 @@ Time and venue: Tuesday and Thursday 5:00-6:15pm at [M Pacheco ILC 130](https://
 -  [Gradescope](https://www.gradescope.com/courses/1343428) 
 -  [D2L course webpage](https://d2l.arizona.edu/d2l/home/1795130)
 -  [Piazza link](https://piazza.com/arizona/fall2026/csc380/home) (access code: `wildcats`)
--  [Lecture participation self-report form]()
+-  [Lecture participation self-report form](https://docs.google.com/spreadsheets/d/1MGGZUqbsTYXoSeQ0kvRhFbMr6RSsmTk7nEJ2x5SNiHg/edit?usp=sharing)
 
 
 We will be using Piazza to make important announcements and do Q&As. Some general rules:
