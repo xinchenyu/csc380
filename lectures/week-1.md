@@ -15,12 +15,12 @@ nav_order: 1
 
 
 ### Lessons:
-  * [Tuesday: slides]()
+  * [Tuesday: slides](https://xinchenyu.github.io/csc380/Slides/26f380_courseintro.pdf)
   * [Thursday: slides]()
 
 
 ### Important Dates:
-* Homework 1 out, due **Friday, Sep 04, 11:59pm**{: .label .label-red }
+* Homework 1 due **Friday, Sep 04, 11:59pm**{: .label .label-red }
 
 
 ### Readings:
