@@ -16,7 +16,7 @@ nav_order: 1
 
 ### Lessons:
   * [Tuesday: slides](https://xinchenyu.github.io/csc380/Slides/26f380_courseintro.pdf)
-  * [Thursday: slides]()
+  * [Thursday: slides](https://xinchenyu.github.io/csc380/Slides/26f380_data1.pdf)
 
 
 ### Important Dates:
