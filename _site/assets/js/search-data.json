@@ -106,7 +106,7 @@
   },"15": {
     "doc": "CSC380, Fall 2026",
     "title": "Course staff",
-    "content": ". | Instructor: Xinchen Yu, Naren Doraiswamy | Teaching assistants: Shuoshan Lan, Muhammad Bilal | . Office hours: . | Xinchen Yu: Thursday 12:00pm-2:00pm, Gould-Simpson 829. | You are welcome to drop in at any time during this period. However, students in this course will be given priority from 1:00pm-2:00pm. If you arrive outside of this priority window, please understand that wait times may vary depending on whether students from another course are being helped. | . | . ",
+    "content": ". | Instructor: Xinchen Yu, Naren Doraiswamy | Teaching assistants: Shuoshan Lan, Praneeth Myneedu | . Office hours: . | Xinchen Yu: Thursday 12:00pm-2:00pm, Gould-Simpson 829. | You are welcome to drop in at any time during this period. However, students in this course will be given priority from 1:00pm-2:00pm. If you arrive outside of this priority window, please understand that wait times may vary depending on whether students from another course are being helped. | . | . ",
     "url": "/csc380/#course-staff",
     
     "relUrl": "/#course-staff"
@@ -162,14 +162,14 @@
   },"23": {
     "doc": "Staff",
     "title": "Instructor",
-    "content": "Xinchen Yu . xinchenyu@arizona.edu . Office Hours Thursday 12:00pm-2:00pm (in-person, priority window 1:00-2:00pm) . Room Gould-Simpson 829 . ",
+    "content": "Xinchen Yu . xinchenyu@arizona.edu . Office Hours Thursday 12:00pm-2:00pm (in-person, priority window 1:00-2:00pm) . Room Gould-Simpson 829 . Naren Doraiswamy . narend@arizona.edu . Office Hours TBD . Room TBD . ",
     "url": "/csc380/staff/#instructor",
     
     "relUrl": "/staff/#instructor"
   },"24": {
     "doc": "Staff",
     "title": "Teaching Assistants",
-    "content": "Eric Duong . eduong@arizona.edu . Office Hours 1 Monday 2:00pm-4:00pm (in-person) . Office Hours 2 Thursday 2:00pm-4:00pm (in-person) . Room GS 942 . Saiful Islam Salim . saifulislam@arizona.edu . Office Hours 1 Monday 10:00am-12:00pm (online, Zoom) . Office Hours 2 Wednesday 11:00am-1:00pm (in-person) . Room GS 942 . Tian Tan . tiantan@arizona.edu . Office Hours 1 Tuesday 11:30am-1:30pm (in-person) . Office Hours 2 Wednesday 9:00am-11:00am (in-person) . Room GS 942 . ",
+    "content": "Praneeth Myneedu . pmyneedu@arizona.edu . Office Hours Tuesday 12:00pm-2:00pm, room TBD . Ruoshan Lan . ruoshanlan@arizona.edu . Office Hours 1 Wednesday 3:30pm-5:00pm, room TBD . Office Hours 2 Friday 2:30pm-5:00pm, room TBD . ",
     "url": "/csc380/staff/#teaching-assistants",
     
     "relUrl": "/staff/#teaching-assistants"
@@ -183,7 +183,7 @@
   },"26": {
     "doc": "Week 1 - Course Overview & Basic Data Analysis 1",
     "title": "Week 1 - Course Overview & Basic Data Analysis 1",
-    "content": "Learning Objectives: . | Course overview | Basic Data Analysis 1 . | Pandas | Descriptive statistics | Data visualization | . | . Lessons: . | Tuesday: slides | Thursday: slides | . Important Dates: . | Homework 1 out, due Friday, Sep 04, 11:59pm | . Readings: . | Class Syllabus | What is Data Science? | . ",
+    "content": "Learning Objectives: . | Course overview | Basic Data Analysis 1 . | Pandas | Descriptive statistics | Data visualization | . | . Lessons: . | Tuesday: slides | Thursday: slides | . Important Dates: . | Homework 1 due Friday, Sep 04, 11:59pm | . Readings: . | Class Syllabus | What is Data Science? | . ",
     "url": "/csc380/modules/week1",
     
     "relUrl": "/modules/week1"
