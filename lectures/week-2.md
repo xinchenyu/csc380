@@ -16,7 +16,7 @@ nav_order: 2
 
 
 ### Lessons:
-  * [Tuesday: slides-short](https://xinchenyu.github.io/csc380/Slides/26f380_probability_short.pdf)
+  * [Tuesday: slides-short](https://xinchenyu.github.io/csc380/Slides/26f380_probability1_short.pdf)
   * [Tuesday: slides-long]()
   * [Thursday: slides]()
 
