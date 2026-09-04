@@ -19,7 +19,7 @@ nav_order: 2
   * [Tuesday: slides-short](https://xinchenyu.github.io/csc380/Slides/26f380_probability1_short.pdf)
   * [Tuesday: slides-long](https://xinchenyu.github.io/csc380/Slides/26f380_probability1_long.pdf)
   * [Thursday: slides-short](https://xinchenyu.github.io/csc380/Slides/26f380_probability1_short.pdf)
-  * [Thursday: slides-long]()
+  * [Thursday: slides-long](https://xinchenyu.github.io/csc380/Slides/26f380_probability1_long.pdf)
 
 
 ### Important Dates:
