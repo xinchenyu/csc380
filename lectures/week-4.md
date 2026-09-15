@@ -12,8 +12,10 @@ nav_order: 4
 * Random variables
 
 ### Lessons:
-  * [Tuesday: slides]()
-  * [Thursday: slides]()
+  * [Tuesday: slides-short](https://xinchenyu.github.io/csc380/Slides/26f380_probability2_short.pdf)
+  * [Tuesday: slides-long]()
+  * [Thursday: slides-short]()
+  * [Thursday: slides-long]()
 
 
 ### Important Dates:
