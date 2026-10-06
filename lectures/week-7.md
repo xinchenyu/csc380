@@ -13,8 +13,10 @@ nav_order: 7
     * Expectation, Variance, and Covariance
 
 ### Lessons:
-  * [Tuesday: slides]()
-  * [Thursday: slides]()
+ * [Tuesday: slides-short](https://xinchenyu.github.io/csc380/Slides/26f380_probability4_short.pdf)
+  * [Tuesday: slides-long]()
+  * [Thursday: slides-short]()
+  * [Thursday: slides-long]()
   
   
 ### Important Dates:
