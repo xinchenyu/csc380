@@ -14,7 +14,7 @@ nav_order: 10
 
 
 ### Lessons:
-  * [Tuesday: slides](https://xinchenyu.github.io/csc380/Slides/26f380_predictive1_1_long.pdf)
+  * [Tuesday: slides](https://xinchenyu.github.io/csc380/Slides/26s380_predictive1_1_long.pdf)
   * [Thursday: slides]()
 
 
