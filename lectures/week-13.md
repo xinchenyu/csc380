@@ -14,7 +14,7 @@ nav_order: 13
 
 ### Lessons:
   * [Tuesday: slides](https://xinchenyu.github.io/csc380/Slides/26f380_statistics1_long.pdf)
-  * [Thursday: slides]()
+  * [Thursday: slides](https://xinchenyu.github.io/csc380/Slides/26f380_statistics1_long.pdf)
 
 ### Important Dates:
 * Homework 7 due **Thursday, Dec 03, 11:59pm**{: .label .label-red }
